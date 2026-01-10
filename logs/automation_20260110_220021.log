@@ -1,0 +1,1929 @@
+2026-01-10 22:00:21,183 - INFO - 📂 Loaded 62 groups from history
+2026-01-10 22:00:21,199 - INFO - 📂 Loaded 31 visited profiles from history
+2026-01-10 22:00:21,231 - INFO - 📂 Loaded 16 commented groups from history
+2026-01-10 22:00:21,252 - INFO - 📊 Statistikat: 60 postime, 0 komente, 5 mesazhe, 2 shokë
+2026-01-10 22:00:31,050 - INFO - ✅ WebDriver initialized - Duke përdorur sesionin e ruajtur
+2026-01-10 22:00:38,449 - INFO - ✅ Already logged in - Duke filluar automatizimin!
+2026-01-10 22:00:38,453 - INFO - 
+=== Duke filluar GROUP POSTING automation ===
+2026-01-10 22:00:38,478 - INFO - Qytete: ['Berlin', 'Stuttgart', 'München', 'Hamburg', 'Köln', 'Frankfurt']
+2026-01-10 22:00:38,480 - INFO - ♾️ INFINITE MODE - Do të vazhdojë deri sa të ndalosh!
+
+2026-01-10 22:00:38,481 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 22:00:38,515 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 22:00:57,366 - INFO - ✅ Gjeti 37 grupe UNIQUE për München
+2026-01-10 22:00:57,377 - INFO - ✅ Gjeti 37 grupe për München
+2026-01-10 22:00:57,434 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/725843345938513
+2026-01-10 22:01:17,372 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:01:17,642 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:01:17,644 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:01:17,663 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:01:20,744 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:01:21,289 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:01:22,249 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:01:26,004 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:01:26,115 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:01:26,389 - INFO - ✅ Modal input u klikua
+2026-01-10 22:01:27,407 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:01:29,983 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:01:31,743 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:01:32,026 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:01:34,752 - INFO - ✅ Post button clicked!
+2026-01-10 22:01:38,006 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:01:38,028 - INFO - 💾 Grupi u ruajt në historik: 63 grupe | 📊 Total: 61 postime
+2026-01-10 22:01:38,031 - INFO - 📊 Totali: 1 postime (INFINITE MODE)
+2026-01-10 22:01:38,077 - INFO - ⏳ Pritje 79 sekonda (1.3 min)...
+2026-01-10 22:02:56,773 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:02:56,795 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 22:02:56,818 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 22:02:56,821 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:03:10,199 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:03:10,453 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:03:10,455 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:03:10,458 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:03:13,559 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:03:14,147 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:03:14,153 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.2s)
+2026-01-10 22:03:30,359 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 22:03:30,369 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 22:03:30,372 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:03:30,377 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/372099261007545
+2026-01-10 22:03:30,378 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 22:03:30,380 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/jobs.kleinanzeigen.schweiz
+2026-01-10 22:03:43,624 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:03:43,782 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:03:43,784 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:03:43,798 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:03:46,852 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:03:46,948 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:03:46,952 - INFO - ➡️ Duke vazhduar te grupi tjetër (11.8s)
+2026-01-10 22:03:58,772 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:03:58,775 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1612808392133088
+2026-01-10 22:04:12,824 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:04:12,960 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:04:12,962 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:04:12,964 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:04:16,116 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:04:16,378 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:04:17,320 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:04:21,931 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:04:22,031 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:04:22,184 - INFO - ✅ Modal input u klikua
+2026-01-10 22:04:23,194 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:04:24,913 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:04:26,085 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:04:26,306 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:04:29,516 - INFO - ✅ Post button clicked!
+2026-01-10 22:04:33,202 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:04:33,226 - INFO - 💾 Grupi u ruajt në historik: 64 grupe | 📊 Total: 62 postime
+2026-01-10 22:04:33,228 - INFO - 📊 Totali: 2 postime (INFINITE MODE)
+2026-01-10 22:04:33,234 - INFO - ⏳ Pritje 31 sekonda (0.5 min)...
+2026-01-10 22:05:04,540 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/onlinejobsgermany
+2026-01-10 22:05:04,558 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/172174166292317
+2026-01-10 22:05:18,214 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:05:18,454 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:05:18,456 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:05:18,462 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:05:21,642 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:05:21,802 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:05:22,915 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:05:26,830 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:05:26,918 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:05:27,146 - INFO - ✅ Modal input u klikua
+2026-01-10 22:05:28,158 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:05:29,822 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:05:31,551 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:05:31,728 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:05:34,487 - INFO - ✅ Post button clicked!
+2026-01-10 22:05:38,112 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:05:38,132 - INFO - 💾 Grupi u ruajt në historik: 65 grupe | 📊 Total: 63 postime
+2026-01-10 22:05:38,135 - INFO - 📊 Totali: 3 postime (INFINITE MODE)
+2026-01-10 22:05:38,140 - INFO - ⏳ Pritje 40 sekonda (0.7 min)...
+2026-01-10 22:06:18,626 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:06:18,638 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:06:18,644 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 22:06:18,653 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 22:06:18,659 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/915732865225914
+2026-01-10 22:06:30,412 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:06:30,783 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:06:30,850 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:06:30,865 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:06:34,083 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:06:34,146 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:06:34,954 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:06:37,992 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:06:38,074 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:06:38,229 - INFO - ✅ Modal input u klikua
+2026-01-10 22:06:39,242 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:06:40,789 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:06:41,969 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:06:42,106 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:06:44,777 - INFO - ✅ Post button clicked!
+2026-01-10 22:06:48,336 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:06:48,349 - INFO - 💾 Grupi u ruajt në historik: 66 grupe | 📊 Total: 64 postime
+2026-01-10 22:06:48,351 - INFO - 📊 Totali: 4 postime (INFINITE MODE)
+2026-01-10 22:06:48,354 - INFO - ⏳ Pritje 87 sekonda (1.4 min)...
+2026-01-10 22:08:14,940 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 22:08:14,969 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/969685153067725
+2026-01-10 22:08:14,989 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 22:08:14,992 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/910260129095140
+2026-01-10 22:08:28,930 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:08:29,150 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:08:29,151 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:08:29,154 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:08:32,389 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:08:32,490 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:08:33,495 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:08:38,142 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:08:39,188 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:08:41,711 - INFO - ✅ Modal input u klikua
+2026-01-10 22:08:42,715 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:08:44,368 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:08:45,661 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:08:45,837 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:08:48,534 - INFO - ✅ Post button clicked!
+2026-01-10 22:08:52,733 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:08:52,750 - INFO - 💾 Grupi u ruajt në historik: 67 grupe | 📊 Total: 65 postime
+2026-01-10 22:08:52,751 - INFO - 📊 Totali: 5 postime (INFINITE MODE)
+2026-01-10 22:08:52,774 - INFO - ⏳ Pritje 59 sekonda (1.0 min)...
+2026-01-10 22:09:52,488 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/munichbabysitter
+2026-01-10 22:10:06,183 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:10:06,396 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:10:06,398 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:10:06,406 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:10:09,655 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:10:09,750 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:10:10,528 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:10:15,324 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:10:15,412 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:10:15,607 - INFO - ✅ Modal input u klikua
+2026-01-10 22:10:16,619 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:10:18,305 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:10:19,969 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:10:20,160 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:10:22,838 - INFO - ✅ Post button clicked!
+2026-01-10 22:10:27,447 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:10:27,468 - INFO - 💾 Grupi u ruajt në historik: 68 grupe | 📊 Total: 66 postime
+2026-01-10 22:10:27,470 - INFO - 📊 Totali: 6 postime (INFINITE MODE)
+2026-01-10 22:10:27,478 - INFO - ⏳ Pritje 91 sekonda (1.5 min)...
+2026-01-10 22:11:58,815 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1854423604847576
+2026-01-10 22:12:11,463 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:12:11,644 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:12:11,647 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:12:11,652 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:12:14,722 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:12:14,848 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:12:14,851 - INFO - ➡️ Duke vazhduar te grupi tjetër (12.8s)
+2026-01-10 22:12:27,867 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-10 22:12:41,263 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:12:42,360 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:12:42,361 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:12:42,362 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:12:45,461 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:12:45,564 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:12:45,566 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.2s)
+2026-01-10 22:13:00,777 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 22:13:12,767 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:13:12,872 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:13:12,873 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:13:12,876 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:13:15,942 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:13:16,048 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:13:16,049 - INFO - ➡️ Duke vazhduar te grupi tjetër (17.9s)
+2026-01-10 22:13:33,913 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 22:13:47,908 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:13:48,021 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:13:48,022 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:13:48,025 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:13:51,113 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:13:51,275 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:13:51,389 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.3s)
+2026-01-10 22:14:09,737 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 22:14:09,754 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/647528965260290
+2026-01-10 22:14:09,758 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-10 22:14:09,795 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1169173499886036
+2026-01-10 22:14:24,927 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:14:25,037 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:14:25,037 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:14:25,043 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:14:28,289 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:14:28,546 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:14:30,636 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:14:34,576 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:14:34,668 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:14:34,849 - INFO - ✅ Modal input u klikua
+2026-01-10 22:14:35,856 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:14:37,570 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:14:39,329 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:14:39,584 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:14:42,307 - INFO - ✅ Post button clicked!
+2026-01-10 22:14:45,412 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:14:45,434 - INFO - 💾 Grupi u ruajt në historik: 69 grupe | 📊 Total: 67 postime
+2026-01-10 22:14:45,437 - INFO - 📊 Totali: 7 postime (INFINITE MODE)
+2026-01-10 22:14:45,449 - INFO - ⏳ Pritje 106 sekonda (1.8 min)...
+2026-01-10 22:16:31,336 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 22:16:31,369 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:16:46,098 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:16:46,249 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:16:46,251 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:16:46,255 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:16:49,352 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:16:49,576 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:16:50,388 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:16:54,245 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:16:54,307 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:16:54,481 - INFO - ✅ Modal input u klikua
+2026-01-10 22:16:55,493 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:16:57,300 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:16:58,551 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:16:58,706 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:17:01,378 - INFO - ✅ Post button clicked!
+2026-01-10 22:17:04,666 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:17:04,693 - INFO - 💾 Grupi u ruajt në historik: 70 grupe | 📊 Total: 68 postime
+2026-01-10 22:17:04,695 - INFO - 📊 Totali: 8 postime (INFINITE MODE)
+2026-01-10 22:17:04,705 - INFO - ⏳ Pritje 97 sekonda (1.6 min)...
+2026-01-10 22:18:41,621 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:18:41,646 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/492368766957323
+2026-01-10 22:19:11,325 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:19:11,556 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:19:11,557 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:19:11,572 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:19:14,652 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:19:14,800 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:19:14,803 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.7s)
+2026-01-10 22:19:34,489 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 22:19:34,506 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 22:19:53,240 - INFO - ✅ Gjeti 39 grupe UNIQUE për Berlin
+2026-01-10 22:19:53,250 - INFO - ✅ Gjeti 39 grupe për Berlin
+2026-01-10 22:19:53,260 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 22:19:53,262 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 22:19:53,265 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 22:19:53,274 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:19:53,281 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:19:53,286 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 22:19:53,289 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:19:53,297 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/click10x
+2026-01-10 22:20:03,736 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:20:03,941 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:20:03,944 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:20:03,950 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:20:07,117 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:20:07,874 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:20:09,187 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:20:13,664 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:20:13,798 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:20:13,992 - INFO - ✅ Modal input u klikua
+2026-01-10 22:20:14,998 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:20:17,777 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:20:19,350 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:20:19,543 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:20:22,229 - INFO - ✅ Post button clicked!
+2026-01-10 22:20:26,061 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:20:26,082 - INFO - 💾 Grupi u ruajt në historik: 71 grupe | 📊 Total: 69 postime
+2026-01-10 22:20:26,083 - INFO - 📊 Totali: 9 postime (INFINITE MODE)
+2026-01-10 22:20:26,089 - INFO - ⏳ Pritje 77 sekonda (1.3 min)...
+2026-01-10 22:21:42,893 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-10 22:21:56,008 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:21:56,248 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:21:56,250 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:21:56,255 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:21:59,322 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:21:59,486 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:21:59,490 - INFO - ➡️ Duke vazhduar te grupi tjetër (11.0s)
+2026-01-10 22:22:10,460 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:22:10,462 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/910260129095140
+2026-01-10 22:22:10,464 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/372099261007545
+2026-01-10 22:22:10,466 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/790065337841358
+2026-01-10 22:22:10,470 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/berlinbrandenburgjobs
+2026-01-10 22:22:10,472 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:22:10,477 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-10 22:22:10,481 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:22:23,856 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:22:24,106 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:22:24,107 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:22:24,110 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:22:27,204 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:22:27,311 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:22:27,314 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.0s)
+2026-01-10 22:22:46,363 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/521972073648533
+2026-01-10 22:22:46,379 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/952891878103335
+2026-01-10 22:22:46,441 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/337058486489989
+2026-01-10 22:22:46,444 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/836663645786365
+2026-01-10 22:23:05,049 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:23:05,584 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:23:05,586 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:23:05,593 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:23:08,989 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:23:09,229 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:23:12,056 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:23:16,835 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:23:17,341 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:23:17,534 - INFO - ✅ Modal input u klikua
+2026-01-10 22:23:18,549 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:23:20,324 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:23:22,301 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:23:22,509 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:23:25,173 - INFO - ✅ Post button clicked!
+2026-01-10 22:23:29,415 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:23:29,444 - INFO - 💾 Grupi u ruajt në historik: 72 grupe | 📊 Total: 70 postime
+2026-01-10 22:23:29,448 - INFO - 📊 Totali: 10 postime (INFINITE MODE)
+2026-01-10 22:23:29,462 - INFO - ⏳ Pritje 49 sekonda (0.8 min)...
+2026-01-10 22:24:18,445 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 22:24:18,509 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 22:24:32,740 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:24:32,961 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:24:32,963 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:24:32,972 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:24:36,052 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:24:36,196 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:24:36,199 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.1s)
+2026-01-10 22:24:55,319 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/710560810971637
+2026-01-10 22:24:55,320 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 22:24:55,322 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/269627771348213
+2026-01-10 22:24:55,324 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/nebenjobs.homeoffice
+2026-01-10 22:25:10,482 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:25:12,666 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:25:12,667 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:25:12,679 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:25:15,766 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:25:15,864 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:25:15,867 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.9s)
+2026-01-10 22:25:29,763 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 22:25:29,764 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob2014
+2026-01-10 22:25:29,768 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/482267531880963
+2026-01-10 22:25:29,770 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/jobs.kleinanzeigen.schweiz
+2026-01-10 22:25:43,169 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:25:43,325 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:25:43,327 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:25:43,329 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:25:46,407 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:25:46,519 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:25:46,523 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.3s)
+2026-01-10 22:26:04,880 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 22:26:16,188 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:26:16,407 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:26:16,409 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:26:16,415 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:26:19,485 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:26:19,587 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:26:19,590 - INFO - ➡️ Duke vazhduar te grupi tjetër (11.9s)
+2026-01-10 22:26:31,484 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 22:26:31,487 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 22:26:31,493 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1047242698639059
+2026-01-10 22:26:43,410 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:26:43,575 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:26:43,577 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:26:43,580 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:26:46,637 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:26:46,731 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:26:46,732 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.4s)
+2026-01-10 22:26:57,153 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobberlin01
+2026-01-10 22:26:57,155 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/onlinejobsgermany
+2026-01-10 22:26:57,159 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:26:57,161 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 22:26:57,166 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 22:26:57,176 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 22:27:14,885 - INFO - ✅ Gjeti 39 grupe UNIQUE për Köln
+2026-01-10 22:27:14,916 - INFO - ✅ Gjeti 39 grupe për Köln
+2026-01-10 22:27:14,964 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/285881096518574
+2026-01-10 22:27:14,966 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/click10x
+2026-01-10 22:27:14,970 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 22:27:14,972 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1854423604847576
+2026-01-10 22:27:28,680 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:27:29,009 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:27:29,012 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:27:29,015 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:27:34,148 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:27:34,453 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:27:34,470 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.0s)
+2026-01-10 22:27:44,505 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 22:27:57,963 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:27:58,112 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:27:58,115 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:27:58,119 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:28:01,207 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:28:01,316 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:28:01,318 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.8s)
+2026-01-10 22:28:17,149 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/269627771348213
+2026-01-10 22:28:17,150 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 22:28:28,966 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:28:29,270 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:28:29,271 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:28:29,274 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:28:32,480 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:28:32,819 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:28:34,677 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:28:38,756 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:28:39,052 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:28:39,224 - INFO - ✅ Modal input u klikua
+2026-01-10 22:28:40,235 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:28:42,108 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:28:43,614 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:28:43,937 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:28:46,812 - INFO - ✅ Post button clicked!
+2026-01-10 22:28:51,026 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:28:51,112 - INFO - 💾 Grupi u ruajt në historik: 73 grupe | 📊 Total: 71 postime
+2026-01-10 22:28:51,116 - INFO - 📊 Totali: 11 postime (INFINITE MODE)
+2026-01-10 22:28:51,135 - INFO - ⏳ Pritje 61 sekonda (1.0 min)...
+2026-01-10 22:29:52,422 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1147277225933091
+2026-01-10 22:30:07,053 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:30:07,358 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:30:07,360 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:30:07,364 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:30:11,096 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:30:11,502 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:30:12,640 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:30:16,636 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:30:16,771 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:30:16,974 - INFO - ✅ Modal input u klikua
+2026-01-10 22:30:17,989 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:30:19,741 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:30:21,562 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:30:22,812 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:30:25,532 - INFO - ✅ Post button clicked!
+2026-01-10 22:30:29,903 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:30:29,929 - INFO - 💾 Grupi u ruajt në historik: 74 grupe | 📊 Total: 72 postime
+2026-01-10 22:30:29,931 - INFO - 📊 Totali: 12 postime (INFINITE MODE)
+2026-01-10 22:30:29,936 - INFO - ⏳ Pritje 82 sekonda (1.4 min)...
+2026-01-10 22:31:52,442 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/dortmund.jobs.free4all
+2026-01-10 22:32:06,235 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:32:06,433 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:32:06,435 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:32:06,440 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:32:09,631 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:32:09,850 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:32:10,740 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:32:15,659 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:32:15,763 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:32:15,957 - INFO - ✅ Modal input u klikua
+2026-01-10 22:32:16,973 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:32:18,741 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:32:20,096 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:32:20,307 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:32:22,968 - INFO - ✅ Post button clicked!
+2026-01-10 22:32:27,551 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:32:27,569 - INFO - 💾 Grupi u ruajt në historik: 75 grupe | 📊 Total: 73 postime
+2026-01-10 22:32:27,571 - INFO - 📊 Totali: 13 postime (INFINITE MODE)
+2026-01-10 22:32:27,577 - INFO - ⏳ Pritje 99 sekonda (1.7 min)...
+2026-01-10 22:34:07,071 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-10 22:34:07,112 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/241469358265719
+2026-01-10 22:34:20,743 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:34:20,917 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:34:20,917 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:34:20,933 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:34:24,002 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:34:24,067 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:34:24,855 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:34:28,399 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:34:28,488 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:34:28,640 - INFO - ✅ Modal input u klikua
+2026-01-10 22:34:29,651 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:34:31,174 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:34:32,815 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:34:33,012 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:34:35,671 - INFO - ✅ Post button clicked!
+2026-01-10 22:34:38,871 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:34:38,890 - INFO - 💾 Grupi u ruajt në historik: 76 grupe | 📊 Total: 74 postime
+2026-01-10 22:34:38,892 - INFO - 📊 Totali: 14 postime (INFINITE MODE)
+2026-01-10 22:34:38,896 - INFO - ⏳ Pritje 69 sekonda (1.1 min)...
+2026-01-10 22:35:47,808 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 22:35:47,838 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-10 22:36:00,954 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:36:01,145 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:36:01,147 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:36:01,150 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:36:04,240 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:36:04,382 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:36:04,384 - INFO - ➡️ Duke vazhduar te grupi tjetër (14.8s)
+2026-01-10 22:36:19,152 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 22:36:19,154 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 22:36:19,158 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 22:36:19,161 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/365823779411632
+2026-01-10 22:36:32,687 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:36:32,833 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:36:32,833 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:36:32,837 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:36:36,228 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:36:36,337 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:36:37,151 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:36:40,241 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:36:40,324 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:36:40,497 - INFO - ✅ Modal input u klikua
+2026-01-10 22:36:41,501 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:36:43,215 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:36:44,922 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:36:45,060 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:36:47,751 - INFO - ✅ Post button clicked!
+2026-01-10 22:36:52,427 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:36:52,451 - INFO - 💾 Grupi u ruajt në historik: 77 grupe | 📊 Total: 75 postime
+2026-01-10 22:36:52,454 - INFO - 📊 Totali: 15 postime (INFINITE MODE)
+2026-01-10 22:36:52,461 - INFO - ⏳ Pritje 66 sekonda (1.1 min)...
+2026-01-10 22:37:58,865 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2045195015755595
+2026-01-10 22:37:58,910 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/457638391307937
+2026-01-10 22:38:13,425 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:38:14,253 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:38:14,257 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:38:14,263 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:38:18,128 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:38:19,113 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:38:23,853 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:38:27,592 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:38:27,831 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:38:28,181 - INFO - ✅ Modal input u klikua
+2026-01-10 22:38:29,194 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:38:31,735 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:38:32,873 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:38:33,229 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:38:36,704 - INFO - ✅ Post button clicked!
+2026-01-10 22:38:40,482 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:38:40,562 - INFO - 💾 Grupi u ruajt në historik: 78 grupe | 📊 Total: 76 postime
+2026-01-10 22:38:40,619 - INFO - 📊 Totali: 16 postime (INFINITE MODE)
+2026-01-10 22:38:40,662 - INFO - ⏳ Pritje 67 sekonda (1.1 min)...
+2026-01-10 22:39:47,459 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 22:40:02,035 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:40:02,367 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:40:02,369 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:40:02,376 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:40:05,448 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:40:05,574 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:40:05,578 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.0s)
+2026-01-10 22:40:15,692 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/jobs.kleinanzeigen.schweiz
+2026-01-10 22:40:30,505 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:40:30,754 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:40:30,785 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:40:30,814 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:40:33,930 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:40:34,056 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:40:34,059 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.3s)
+2026-01-10 22:40:47,425 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:40:47,427 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3204461236475060
+2026-01-10 22:40:47,433 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 22:40:47,436 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/286395893586360
+2026-01-10 22:41:00,370 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:41:00,680 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:41:00,681 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:41:00,683 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:41:03,986 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:41:04,133 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:41:05,241 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:41:08,633 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:41:08,755 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:41:09,000 - INFO - ✅ Modal input u klikua
+2026-01-10 22:41:10,009 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:41:16,064 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:41:17,919 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:41:18,119 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:41:21,684 - INFO - ✅ Post button clicked!
+2026-01-10 22:41:25,582 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:41:25,617 - INFO - 💾 Grupi u ruajt në historik: 79 grupe | 📊 Total: 77 postime
+2026-01-10 22:41:25,624 - INFO - 📊 Totali: 17 postime (INFINITE MODE)
+2026-01-10 22:41:25,633 - INFO - ⏳ Pritje 72 sekonda (1.2 min)...
+2026-01-10 22:42:38,151 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:42:38,176 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/296816377785215
+2026-01-10 22:42:51,514 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:42:51,868 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:42:51,871 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:42:51,877 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:42:55,089 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:42:55,177 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:42:55,993 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:42:59,800 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:42:59,893 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:43:00,062 - INFO - ✅ Modal input u klikua
+2026-01-10 22:43:01,077 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:43:02,771 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:43:04,607 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:43:04,746 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:43:07,402 - INFO - ✅ Post button clicked!
+2026-01-10 22:43:11,472 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:43:11,495 - INFO - 💾 Grupi u ruajt në historik: 80 grupe | 📊 Total: 78 postime
+2026-01-10 22:43:11,495 - INFO - 📊 Totali: 18 postime (INFINITE MODE)
+2026-01-10 22:43:11,500 - INFO - ⏳ Pritje 45 sekonda (0.8 min)...
+2026-01-10 22:43:56,986 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/313001956019820
+2026-01-10 22:44:09,519 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:44:09,734 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:44:09,737 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:44:09,741 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:44:12,838 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:44:13,051 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:44:14,683 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:44:18,978 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:44:19,113 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:44:19,303 - INFO - ✅ Modal input u klikua
+2026-01-10 22:44:20,318 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:44:22,081 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:44:23,280 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:44:23,609 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:44:26,299 - INFO - ✅ Post button clicked!
+2026-01-10 22:44:30,633 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:44:30,657 - INFO - 💾 Grupi u ruajt në historik: 81 grupe | 📊 Total: 79 postime
+2026-01-10 22:44:30,659 - INFO - 📊 Totali: 19 postime (INFINITE MODE)
+2026-01-10 22:44:30,665 - INFO - ⏳ Pritje 119 sekonda (2.0 min)...
+2026-01-10 22:46:29,539 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:46:29,580 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/nrwjobs
+2026-01-10 22:46:43,916 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:46:44,209 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:46:44,212 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:46:44,217 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:46:47,299 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:46:47,402 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 22:46:48,283 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 22:46:51,358 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 22:46:51,476 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 22:46:51,704 - INFO - ✅ Modal input u klikua
+2026-01-10 22:46:52,710 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 22:46:54,487 - INFO - ✅ Teksti u fut me paste
+2026-01-10 22:46:56,264 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 22:46:56,492 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 22:46:59,302 - INFO - ✅ Post button clicked!
+2026-01-10 22:47:03,406 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 22:47:03,430 - INFO - 💾 Grupi u ruajt në historik: 82 grupe | 📊 Total: 80 postime
+2026-01-10 22:47:03,433 - INFO - 📊 Totali: 20 postime (INFINITE MODE)
+2026-01-10 22:47:03,444 - INFO - ⏳ Pritje 47 sekonda (0.8 min)...
+2026-01-10 22:47:50,567 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/836663645786365
+2026-01-10 22:47:50,595 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:48:02,442 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:48:02,702 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:48:02,705 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:48:02,709 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:48:05,810 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:48:06,011 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:48:06,015 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.0s)
+2026-01-10 22:48:22,065 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/259403471065184
+2026-01-10 22:48:35,947 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:48:36,209 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:48:36,211 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:48:36,215 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:48:39,290 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:48:39,992 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:48:39,995 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.5s)
+2026-01-10 22:48:53,500 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:48:53,501 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:48:53,503 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 22:48:53,508 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 22:48:53,511 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/910260129095140
+2026-01-10 22:48:53,516 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 22:48:53,521 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 22:48:53,549 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 22:49:10,496 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 22:49:10,519 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 22:49:10,539 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:49:10,541 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/stellenanzeigenbremen
+2026-01-10 22:49:10,544 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:49:10,546 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 22:49:10,548 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:49:10,550 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:49:10,552 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:49:10,553 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 22:49:10,556 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 22:49:27,604 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 22:49:27,606 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 22:49:27,608 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:49:27,610 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 22:49:27,613 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:49:27,616 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 22:49:27,617 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 22:49:27,620 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:49:27,622 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 22:49:27,624 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 22:49:27,626 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 22:49:45,003 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 22:49:45,005 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 22:49:45,009 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 22:49:56,753 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:49:57,075 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:49:57,076 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:49:57,079 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:50:00,148 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:50:00,331 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:50:00,333 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.2s)
+2026-01-10 22:50:10,541 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:50:10,543 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:50:10,546 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 22:50:10,548 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:50:10,553 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:50:10,556 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:50:10,560 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 22:50:10,565 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 22:50:10,691 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 22:50:28,510 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 22:50:28,514 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 22:50:28,517 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 22:50:28,520 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 22:50:28,522 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:50:28,523 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 22:50:28,524 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:50:28,528 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 22:50:28,529 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:50:28,530 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 22:50:28,531 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 22:50:44,044 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 22:50:44,045 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 22:50:44,048 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 22:50:44,051 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 22:50:44,054 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:50:44,056 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:50:44,058 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 22:50:44,060 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:50:44,061 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 22:50:44,062 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 22:50:44,065 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 22:50:58,485 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 22:50:58,487 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 22:50:58,490 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:50:58,501 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 22:51:10,832 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:51:11,040 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:51:11,043 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:51:11,046 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:51:14,130 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:51:14,324 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:51:14,326 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.4s)
+2026-01-10 22:51:33,775 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:51:33,779 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:51:33,782 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 22:51:33,783 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:51:33,785 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:51:33,790 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 22:51:33,793 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 22:51:50,992 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 22:51:50,998 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 22:51:51,002 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:51:51,004 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:51:51,006 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:51:51,009 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:51:51,011 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:51:51,013 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/stellenanzeigenbremen
+2026-01-10 22:51:51,014 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 22:51:51,017 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 22:51:51,021 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 22:52:07,227 - INFO - ✅ Gjeti 7 grupe UNIQUE për München
+2026-01-10 22:52:07,230 - INFO - ✅ Gjeti 7 grupe për München
+2026-01-10 22:52:07,232 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:52:07,233 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 22:52:07,235 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:52:07,236 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 22:52:07,237 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:52:07,240 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 22:52:07,242 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 22:52:07,244 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 22:52:07,245 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 22:52:23,446 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 22:52:23,454 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 22:52:23,467 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:52:34,542 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:52:34,764 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:52:34,765 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:52:34,770 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:52:37,844 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:52:38,026 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:52:38,028 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.5s)
+2026-01-10 22:52:56,557 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 22:52:56,559 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:52:56,562 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 22:52:56,563 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:52:56,568 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:52:56,571 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:52:56,574 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 22:52:56,578 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 22:52:56,582 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 22:53:14,301 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 22:53:14,304 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 22:53:14,306 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 22:53:14,308 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:53:14,310 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 22:53:14,314 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 22:53:14,318 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 22:53:14,320 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:53:14,323 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:53:14,324 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:53:14,326 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 22:53:14,327 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 22:53:31,345 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 22:53:31,347 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 22:53:31,350 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:53:31,356 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:53:31,359 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 22:53:31,364 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:53:31,371 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 22:53:31,375 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:53:31,379 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:53:43,651 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:53:43,867 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:53:43,870 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:53:43,875 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:53:46,937 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:53:47,117 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:53:47,119 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.2s)
+2026-01-10 22:54:00,289 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 22:54:00,291 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 22:54:22,086 - INFO - ✅ Gjeti 8 grupe UNIQUE për Stuttgart
+2026-01-10 22:54:22,098 - INFO - ✅ Gjeti 8 grupe për Stuttgart
+2026-01-10 22:54:22,109 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 22:54:22,111 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:54:22,114 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 22:54:22,115 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 22:54:22,117 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:54:22,119 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 22:54:22,121 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:54:22,123 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 22:54:22,126 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 22:54:22,129 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 22:54:39,354 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 22:54:39,362 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 22:54:39,376 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:54:39,380 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 22:54:50,971 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:54:51,172 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:54:51,174 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:54:51,175 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:54:54,252 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:54:54,432 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:54:54,435 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.9s)
+2026-01-10 22:55:11,341 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:55:11,343 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:55:11,346 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 22:55:11,350 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:55:11,353 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:55:11,354 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 22:55:11,357 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 22:55:28,409 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 22:55:28,417 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 22:55:28,426 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:55:28,428 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 22:55:28,431 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 22:55:28,435 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 22:55:28,437 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:55:28,440 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:55:28,442 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 22:55:28,443 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 22:55:28,445 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 22:55:45,486 - INFO - ✅ Gjeti 8 grupe UNIQUE për Hamburg
+2026-01-10 22:55:45,488 - INFO - ✅ Gjeti 8 grupe për Hamburg
+2026-01-10 22:55:45,491 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:55:45,493 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:55:45,496 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/stellenanzeigenbremen
+2026-01-10 22:55:45,499 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 22:55:45,501 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:55:45,505 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:55:45,507 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:55:45,509 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:55:58,277 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:55:58,460 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:55:58,462 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:55:58,466 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:56:01,534 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:56:01,726 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:56:01,729 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.4s)
+2026-01-10 22:56:18,115 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 22:56:18,135 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 22:56:18,149 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 22:56:39,778 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 22:56:39,782 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 22:56:39,786 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 22:56:54,416 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:56:54,647 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:56:54,648 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:56:54,653 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:56:58,829 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:56:59,006 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:56:59,007 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.0s)
+2026-01-10 22:57:17,984 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:57:17,988 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 22:57:17,991 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:57:17,993 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:57:17,994 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 22:57:17,998 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:57:18,000 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 22:57:18,008 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 22:57:36,470 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 22:57:36,485 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 22:57:36,501 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 22:57:36,505 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 22:57:36,508 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 22:57:36,509 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:57:36,512 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 22:57:36,518 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 22:57:36,520 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:57:36,523 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 22:57:36,525 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 22:57:53,028 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 22:57:53,030 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 22:57:53,034 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:57:53,036 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:57:53,039 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 22:57:53,042 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:57:53,043 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 22:57:53,045 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:58:04,089 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:58:04,298 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:58:04,300 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:58:04,302 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:58:07,366 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:58:07,525 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:58:07,528 - INFO - ➡️ Duke vazhduar te grupi tjetër (14.4s)
+2026-01-10 22:58:21,892 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:58:21,893 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 22:58:21,897 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 22:58:41,380 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 22:58:41,411 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 22:58:41,425 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/stellenanzeigenbremen
+2026-01-10 22:58:41,428 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 22:58:41,430 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:58:41,431 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:58:41,433 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 22:58:41,434 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:58:41,438 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 22:58:41,440 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 22:58:41,444 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 22:59:01,052 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 22:59:01,076 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 22:59:01,098 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:59:01,102 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:59:01,105 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:59:01,110 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 22:59:01,114 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 22:59:01,118 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:59:01,120 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 22:59:01,122 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 22:59:01,123 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 22:59:01,127 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 22:59:18,721 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 22:59:18,742 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 22:59:18,761 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 22:59:18,763 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 22:59:18,765 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:59:18,767 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 22:59:18,769 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 22:59:18,770 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:59:18,774 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 22:59:18,776 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 22:59:18,780 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 22:59:18,782 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 22:59:37,949 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 22:59:37,963 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 22:59:37,975 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 22:59:37,978 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 22:59:37,979 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 22:59:37,987 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 22:59:52,024 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 22:59:52,233 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 22:59:52,235 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 22:59:52,239 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 22:59:55,317 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 22:59:55,528 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 22:59:55,654 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.8s)
+2026-01-10 23:00:11,474 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:00:11,475 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:00:11,479 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:00:11,485 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:00:11,489 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:00:28,561 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:00:28,564 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:00:28,567 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:00:28,569 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:00:28,571 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:00:28,575 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:00:28,577 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:00:28,578 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:00:28,580 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:00:28,582 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:00:28,583 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:00:46,542 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:00:46,559 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:00:46,575 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:00:46,583 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:00:46,586 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:00:46,588 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:00:46,591 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:00:46,594 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:00:46,597 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:00:46,599 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:00:46,602 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:01:03,777 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:01:03,794 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:01:03,813 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:01:03,816 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:01:16,616 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:01:16,839 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:01:16,842 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:01:16,844 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:01:19,928 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:01:20,098 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:01:20,102 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.4s)
+2026-01-10 23:01:36,483 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:01:36,484 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:01:36,489 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:01:36,493 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:01:36,496 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:01:36,501 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:01:36,507 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:01:55,379 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 23:01:55,384 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 23:01:55,387 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:01:55,389 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:01:55,393 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:01:55,394 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:01:55,396 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:01:55,399 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:01:55,402 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:01:55,405 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:01:55,407 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:01:55,408 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:02:10,035 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:02:10,054 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:02:10,068 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:02:10,073 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:02:21,702 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:02:21,909 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:02:21,909 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:02:21,914 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:02:25,002 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:02:25,196 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:02:25,199 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.0s)
+2026-01-10 23:02:43,203 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:02:43,210 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:02:43,216 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:02:43,217 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:02:43,219 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:02:43,221 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:02:43,229 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:02:43,236 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:03:02,022 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:03:02,037 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:03:02,051 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:03:02,054 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:03:02,060 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:03:02,062 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:03:02,065 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:03:02,068 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:03:02,069 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:03:02,070 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:03:02,073 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:03:20,833 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 23:03:20,861 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 23:03:20,898 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:03:20,901 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:03:20,904 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:03:20,906 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:03:20,908 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:03:20,915 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:03:20,917 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:03:20,919 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:03:20,921 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:03:20,925 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:03:39,932 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:03:39,956 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:03:39,984 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:03:39,987 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:03:39,990 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:03:39,991 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:03:39,992 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:03:39,993 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:03:39,994 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:03:39,999 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:03:40,001 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:03:58,677 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:03:58,694 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:03:58,712 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:03:58,715 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:03:58,720 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:03:58,724 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:04:12,514 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:04:12,826 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:04:12,829 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:04:12,831 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:04:15,903 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:04:16,055 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:04:16,060 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.9s)
+2026-01-10 23:04:32,959 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:04:32,960 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:04:32,963 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:04:32,967 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:04:32,971 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:04:50,206 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:04:50,238 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:04:50,268 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/790065337841358
+2026-01-10 23:04:50,275 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:04:50,284 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:04:50,289 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:04:50,293 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:04:50,301 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:04:50,309 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:04:50,311 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:04:50,314 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:05:12,752 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:05:12,793 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:05:12,846 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:05:12,851 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:05:12,861 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:05:12,866 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:05:12,871 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:05:12,875 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:05:12,877 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:05:12,888 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:05:12,897 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:05:12,908 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:05:33,812 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:05:33,825 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:05:33,863 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:05:33,866 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:05:33,876 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:05:33,886 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:05:33,899 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:05:33,910 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:05:33,914 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:05:33,923 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:05:33,927 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:05:52,565 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:05:52,593 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:05:52,626 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:05:52,632 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:05:52,635 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:05:52,638 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:05:52,642 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:06:07,566 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:06:08,294 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:06:08,295 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:06:08,298 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:06:11,396 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:06:12,118 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:06:12,516 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.9s)
+2026-01-10 23:06:31,440 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:06:31,441 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:06:31,444 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:06:31,450 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:06:50,234 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:06:50,245 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:06:50,260 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:06:50,262 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:06:50,265 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:06:50,268 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:06:50,269 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:06:50,271 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:06:50,273 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:06:50,275 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:06:50,278 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:07:04,380 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:07:04,381 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:07:04,382 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:07:04,384 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:07:04,386 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:07:04,389 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:07:04,391 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:07:04,392 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:07:04,394 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:07:04,398 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:07:04,401 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:07:19,863 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 23:07:19,866 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 23:07:19,871 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:07:19,873 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:07:19,875 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:07:19,878 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:07:19,884 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:07:19,887 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:07:19,889 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:07:19,892 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:07:19,895 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:07:19,897 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:07:37,242 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:07:37,295 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:07:37,342 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:07:37,348 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:07:37,352 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:07:37,357 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:07:37,360 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:07:37,379 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:07:37,389 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:07:51,900 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:07:52,359 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:07:52,361 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:07:52,365 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:07:55,435 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:07:55,663 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:07:55,666 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.9s)
+2026-01-10 23:08:06,536 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:08:06,541 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:08:06,550 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:08:22,436 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:08:22,441 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:08:22,445 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:08:22,450 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:08:22,455 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:08:22,457 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:08:22,460 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:08:32,901 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:08:33,119 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:08:33,120 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:08:33,124 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:08:36,189 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:08:36,369 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:08:36,373 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.8s)
+2026-01-10 23:08:50,200 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:08:50,210 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:08:50,214 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:08:50,219 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:09:08,303 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:09:08,306 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:09:08,310 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:09:08,312 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:09:08,315 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:09:08,317 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:09:08,319 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:09:08,321 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:09:08,323 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:09:08,325 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:09:08,328 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:09:23,135 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:09:23,137 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:09:23,139 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:09:23,141 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:09:23,143 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:09:23,145 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:09:23,147 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:09:23,149 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:09:23,151 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:09:23,154 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:09:23,155 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:09:40,179 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:09:40,180 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:09:40,182 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:09:40,184 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:09:40,185 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:09:40,187 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:09:40,189 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:09:53,854 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:09:54,069 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:09:54,070 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:09:54,073 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:09:57,137 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:09:57,330 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:09:57,332 - INFO - ➡️ Duke vazhduar te grupi tjetër (11.4s)
+2026-01-10 23:10:08,751 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:10:08,752 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:10:08,755 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:10:08,760 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:10:26,960 - INFO - ✅ Gjeti 7 grupe UNIQUE për München
+2026-01-10 23:10:26,964 - INFO - ✅ Gjeti 7 grupe për München
+2026-01-10 23:10:26,968 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:10:26,970 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:10:26,972 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:10:26,975 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:10:26,976 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:10:26,978 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:10:26,980 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:10:26,984 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:10:26,986 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:10:43,875 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:10:43,877 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:10:43,879 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:10:43,880 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:10:43,883 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:10:43,885 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:10:43,887 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:10:43,889 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:10:43,889 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:10:43,892 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:10:43,895 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:10:43,897 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:11:00,323 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:11:00,325 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:11:00,326 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:11:00,327 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:11:00,328 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:11:00,331 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:11:00,335 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:11:00,338 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:11:00,340 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:11:00,342 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:11:00,344 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:11:18,348 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:11:18,349 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:11:18,352 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:11:18,353 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:11:18,356 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:11:30,487 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:11:30,698 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:11:30,699 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:11:30,704 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:11:33,782 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:11:33,986 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:11:33,990 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.6s)
+2026-01-10 23:11:47,634 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:11:47,635 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:11:47,639 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:11:47,641 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:11:47,644 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:11:47,646 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:12:06,864 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:12:06,874 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:12:06,888 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:12:06,889 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:12:06,891 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:12:06,893 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:12:06,933 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:12:19,985 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:12:20,200 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:12:20,202 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:12:20,206 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:12:23,284 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:12:23,528 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:12:23,704 - INFO - ➡️ Duke vazhduar te grupi tjetër (12.8s)
+2026-01-10 23:12:36,633 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:12:36,635 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:12:36,637 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:12:36,641 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:12:53,806 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:12:53,807 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:12:53,808 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:12:53,809 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:12:53,810 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:12:53,811 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:12:53,813 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:12:53,814 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:12:53,815 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:12:53,817 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:12:53,819 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:13:11,058 - INFO - ✅ Gjeti 8 grupe UNIQUE për München
+2026-01-10 23:13:11,084 - INFO - ✅ Gjeti 8 grupe për München
+2026-01-10 23:13:11,105 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:13:11,106 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:13:11,109 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:13:11,111 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:13:11,114 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:13:11,117 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:13:11,119 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:13:11,122 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:13:11,124 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:13:11,127 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:13:31,225 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:13:31,258 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:13:31,280 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:13:31,282 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:13:31,284 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:13:31,286 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:13:31,288 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:13:31,290 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:13:31,293 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:13:31,295 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:13:31,301 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:13:31,304 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:13:49,190 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:13:49,211 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:13:49,230 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:13:49,232 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:13:49,233 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:14:01,128 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:14:01,314 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:14:01,315 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:14:01,319 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:14:04,392 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:14:04,563 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:14:04,567 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.7s)
+2026-01-10 23:14:23,284 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:14:23,285 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:14:23,288 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:14:23,290 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:14:23,293 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:14:23,296 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:14:40,451 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:14:40,456 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:14:40,461 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:14:40,463 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:14:40,467 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:14:40,474 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:14:40,475 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:14:40,478 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:14:40,484 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:14:40,486 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:14:40,488 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:14:58,522 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:14:58,535 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:14:58,552 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:14:58,554 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:14:58,557 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:14:58,558 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:14:58,560 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:14:58,562 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:14:58,565 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:14:58,568 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:14:58,572 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:15:14,463 - INFO - ✅ Gjeti 7 grupe UNIQUE për München
+2026-01-10 23:15:14,466 - INFO - ✅ Gjeti 7 grupe për München
+2026-01-10 23:15:14,474 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:15:14,477 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:15:14,479 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:15:14,484 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:15:14,486 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:15:14,488 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:15:14,490 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:15:14,492 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:15:14,494 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:15:32,983 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:15:32,987 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:15:32,995 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:15:32,999 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:15:33,006 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:15:33,010 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:15:33,011 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:15:33,012 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:15:33,015 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:15:48,879 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:15:49,114 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:15:49,116 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:15:49,119 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:15:52,210 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:15:52,402 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:15:52,406 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.4s)
+2026-01-10 23:16:07,784 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:16:07,789 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:16:27,897 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:16:27,927 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:16:27,951 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:16:27,953 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:16:27,957 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:16:27,959 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:16:27,961 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:16:27,966 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:16:27,968 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:16:27,971 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:16:27,974 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:16:27,978 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:16:45,920 - INFO - ✅ Gjeti 7 grupe UNIQUE për Frankfurt
+2026-01-10 23:16:45,937 - INFO - ✅ Gjeti 7 grupe për Frankfurt
+2026-01-10 23:16:45,952 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/406464953059053
+2026-01-10 23:16:45,958 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:16:45,962 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:16:45,966 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:16:45,969 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:16:45,972 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:16:45,974 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1624679304469474
+2026-01-10 23:17:00,981 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:17:01,370 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:17:01,371 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:17:01,375 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:17:04,459 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:17:04,666 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:17:04,670 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.7s)
+2026-01-10 23:17:24,426 - INFO - 🔍 Kërko grupe të REJA për: München
+2026-01-10 23:17:25,611 - INFO - 🔍 Duke kërkuar grupe për: München
+2026-01-10 23:17:45,648 - INFO - ✅ Gjeti 7 grupe UNIQUE për München
+2026-01-10 23:17:45,673 - INFO - ✅ Gjeti 7 grupe për München
+2026-01-10 23:17:45,690 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1754227314827534
+2026-01-10 23:17:45,697 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:17:45,699 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:17:45,700 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nebenjob.munich
+2026-01-10 23:17:45,702 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/266937056809670
+2026-01-10 23:17:45,704 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/311487124870056
+2026-01-10 23:17:45,705 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:17:45,707 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:17:45,710 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:18:02,983 - INFO - ✅ Gjeti 7 grupe UNIQUE për Stuttgart
+2026-01-10 23:18:02,986 - INFO - ✅ Gjeti 7 grupe për Stuttgart
+2026-01-10 23:18:02,990 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:18:02,990 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:18:02,991 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:18:02,992 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:18:02,995 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:18:02,998 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:18:02,999 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:18:03,001 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:18:03,004 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:18:20,184 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:18:20,188 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:18:20,191 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:18:20,193 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:18:20,195 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:18:20,198 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:18:20,202 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:18:33,136 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:18:33,523 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:18:33,525 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:18:33,527 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:18:36,610 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:18:36,765 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:18:36,772 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.4s)
+2026-01-10 23:18:52,220 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:18:52,234 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:18:52,239 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:18:52,243 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:19:12,531 - INFO - ✅ Gjeti 7 grupe UNIQUE për Köln
+2026-01-10 23:19:12,562 - INFO - ✅ Gjeti 7 grupe për Köln
+2026-01-10 23:19:12,587 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:19:12,592 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:19:12,600 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:19:12,606 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:19:12,609 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:19:12,612 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:19:12,618 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:19:12,621 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:19:12,623 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:19:31,683 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:19:31,691 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:19:31,717 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:19:31,721 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:19:31,728 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:19:31,733 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:19:31,737 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:19:31,738 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:19:31,740 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:19:31,741 - INFO - 
+🔄 Duke përserëritur qytetet (kërko grupe të REJA)... Totali: 20 postime
+
+2026-01-10 23:19:31,750 - INFO - 🔍 Kërko grupe të REJA për: Hamburg
+2026-01-10 23:19:31,755 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-10 23:19:50,865 - INFO - ✅ Gjeti 7 grupe UNIQUE për Hamburg
+2026-01-10 23:19:51,012 - INFO - ✅ Gjeti 7 grupe për Hamburg
+2026-01-10 23:19:51,038 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:19:51,041 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:19:51,051 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:19:51,053 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:19:51,054 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsimauslandjobsquad
+2026-01-10 23:19:51,057 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:19:51,060 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:19:51,063 - INFO - 🔍 Kërko grupe të REJA për: Berlin
+2026-01-10 23:19:51,065 - INFO - 🔍 Duke kërkuar grupe për: Berlin
+2026-01-10 23:20:09,762 - INFO - ✅ Gjeti 7 grupe UNIQUE për Berlin
+2026-01-10 23:20:09,790 - INFO - ✅ Gjeti 7 grupe për Berlin
+2026-01-10 23:20:09,819 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/StellenangeboteBerlin
+2026-01-10 23:20:09,824 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:20:09,828 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:20:21,832 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:20:22,209 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:20:22,213 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:20:22,219 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:20:25,594 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:20:26,058 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:20:26,063 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.4s)
+2026-01-10 23:20:36,462 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsdigital
+2026-01-10 23:20:36,464 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:20:36,467 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.in.berlin.und.brandenburg
+2026-01-10 23:20:36,471 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:20:36,478 - INFO - 🔍 Kërko grupe të REJA për: Stuttgart
+2026-01-10 23:20:36,480 - INFO - 🔍 Duke kërkuar grupe për: Stuttgart
+2026-01-10 23:20:54,683 - INFO - ✅ Gjeti 36 grupe UNIQUE për Stuttgart
+2026-01-10 23:20:54,699 - INFO - ✅ Gjeti 36 grupe për Stuttgart
+2026-01-10 23:20:54,714 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/590520596138090
+2026-01-10 23:20:54,719 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/432970850217071
+2026-01-10 23:20:54,719 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-10 23:21:06,669 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:21:06,932 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:21:06,935 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:21:06,939 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:21:10,015 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:21:10,110 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:21:10,110 - INFO - ➡️ Duke vazhduar te grupi tjetër (12.5s)
+2026-01-10 23:21:22,608 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:21:22,608 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/969685153067725
+2026-01-10 23:21:22,608 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/365823779411632
+2026-01-10 23:21:22,608 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 23:21:22,624 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobs.landkreis.roth
+2026-01-10 23:21:22,624 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:21:22,638 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:21:34,498 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:21:34,624 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:21:34,624 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:21:34,633 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:21:37,720 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:21:37,811 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:21:37,815 - INFO - ➡️ Duke vazhduar te grupi tjetër (12.9s)
+2026-01-10 23:21:50,704 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/451328811964649
+2026-01-10 23:21:50,704 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/job.stuttgart
+2026-01-10 23:22:06,747 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:22:06,923 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:22:06,924 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:22:06,931 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:22:09,998 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:22:10,092 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:22:10,097 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.7s)
+2026-01-10 23:22:23,807 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsBW
+2026-01-10 23:22:23,814 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:22:23,822 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 23:22:35,411 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:22:35,563 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:22:35,564 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:22:35,564 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:22:38,635 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:22:38,885 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:22:38,892 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.2s)
+2026-01-10 23:22:54,271 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/bodensee.jobs
+2026-01-10 23:22:54,631 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/379764968869873
+2026-01-10 23:22:54,802 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 23:22:55,455 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2287091207993809
+2026-01-10 23:22:55,650 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1011480008870635
+2026-01-10 23:22:55,678 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1533712546927275
+2026-01-10 23:23:08,943 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:23:09,166 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:23:09,166 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:23:09,182 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:23:12,427 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:23:14,200 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:23:15,138 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:23:20,006 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:23:20,082 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 23:23:20,264 - INFO - ✅ Modal input u klikua
+2026-01-10 23:23:21,274 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 23:23:22,931 - INFO - ✅ Teksti u fut me paste
+2026-01-10 23:23:24,676 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 23:23:24,809 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 23:23:27,474 - INFO - ✅ Post button clicked!
+2026-01-10 23:23:30,913 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 23:23:30,936 - INFO - 💾 Grupi u ruajt në historik: 83 grupe | 📊 Total: 81 postime
+2026-01-10 23:23:30,936 - INFO - 📊 Totali: 21 postime (INFINITE MODE)
+2026-01-10 23:23:30,947 - INFO - ⏳ Pritje 44 sekonda (0.7 min)...
+2026-01-10 23:24:15,469 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 23:24:27,234 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:24:27,409 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:24:27,425 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:24:27,425 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:24:31,540 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:24:31,651 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:24:31,651 - INFO - ➡️ Duke vazhduar te grupi tjetër (18.2s)
+2026-01-10 23:24:49,872 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:24:49,887 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 23:24:49,903 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/916622155125952
+2026-01-10 23:24:49,903 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/2011876022390711
+2026-01-10 23:25:05,815 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:25:06,755 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:25:06,757 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:25:06,766 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:25:11,681 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:25:11,819 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:25:12,672 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:25:17,645 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:25:17,735 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 23:25:17,868 - INFO - ✅ Modal input u klikua
+2026-01-10 23:25:18,880 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 23:25:20,516 - INFO - ✅ Teksti u fut me paste
+2026-01-10 23:25:22,162 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 23:25:25,727 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 23:25:28,381 - INFO - ✅ Post button clicked!
+2026-01-10 23:25:31,496 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 23:25:31,529 - INFO - 💾 Grupi u ruajt në historik: 84 grupe | 📊 Total: 82 postime
+2026-01-10 23:25:31,531 - INFO - 📊 Totali: 22 postime (INFINITE MODE)
+2026-01-10 23:25:31,531 - INFO - ⏳ Pritje 118 sekonda (2.0 min)...
+2026-01-10 23:27:29,937 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 23:27:30,009 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 23:27:30,063 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/346015412516849
+2026-01-10 23:27:30,068 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 23:27:30,070 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/915732865225914
+2026-01-10 23:27:30,073 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-10 23:27:30,074 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:27:30,076 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:27:30,078 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/323078781234386
+2026-01-10 23:27:30,081 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/JobsAusStuttgart
+2026-01-10 23:27:30,092 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-10 23:27:30,104 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-10 23:27:52,373 - INFO - ✅ Gjeti 35 grupe UNIQUE për Köln
+2026-01-10 23:27:52,411 - INFO - ✅ Gjeti 35 grupe për Köln
+2026-01-10 23:27:52,448 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Vertrieb.Sales.Jobs
+2026-01-10 23:27:52,451 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/homeofficejobs.deutschland
+2026-01-10 23:28:06,718 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:28:07,039 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:28:07,041 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:28:07,043 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:28:10,149 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:28:10,316 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:28:10,321 - INFO - ➡️ Duke vazhduar te grupi tjetër (16.3s)
+2026-01-10 23:28:26,687 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 23:28:39,396 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:28:39,756 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:28:39,758 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:28:39,766 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:28:43,193 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:28:43,949 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:28:46,027 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:28:49,185 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:28:49,366 - INFO - ✅ U gjet modal input: //div[@contenteditable='true'][@role='textbox']
+2026-01-10 23:28:53,706 - ERROR - Error clicking modal input: Message: element click intercepted: Element <div aria-label="Comment as Sophie" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw notranslate" contenteditable="true" role="textbox" spellcheck="true" tabindex="0" aria-placeholder="Comment as Sophie" style="user-select: text; white-space: pre-wrap; word-break: break-word;" data-lexical-editor="true">...</div> is not clickable at point (701, 720). Other element would receive the click: <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f84488d5
+	0x7ff6f8448930
+	0x7ff6f822165d
+	0x7ff6f82819e8
+	0x7ff6f827f40f
+	0x7ff6f827c417
+	0x7ff6f827b338
+	0x7ff6f826ce7f
+	0x7ff6f82a1fda
+	0x7ff6f826c746
+	0x7ff6f82cac97
+	0x7ff6f826ac29
+	0x7ff6f826ba93
+	0x7ff6f8760620
+	0x7ff6f875af60
+	0x7ff6f87796c6
+	0x7ff6f8465dd4
+	0x7ff6f846ed7c
+	0x7ff6f8451ff4
+	0x7ff6f84521a5
+	0x7ff6f8437ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-10 23:28:53,744 - INFO - ➡️ Duke vazhduar te grupi tjetër (14.3s)
+2026-01-10 23:29:08,111 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:29:08,132 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-10 23:29:19,326 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:29:19,776 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:29:19,780 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:29:19,792 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:29:22,985 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:29:23,420 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:29:23,428 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.8s)
+2026-01-10 23:29:39,264 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-10 23:29:39,322 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 23:29:39,496 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:29:39,503 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-10 23:29:39,519 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nrwjobs
+2026-01-10 23:29:39,525 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 23:29:39,539 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/285881096518574
+2026-01-10 23:29:39,560 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/365823779411632
+2026-01-10 23:29:39,572 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/dortmund.jobs.free4all
+2026-01-10 23:29:39,576 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-10 23:29:39,580 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:29:39,603 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/296816377785215
+2026-01-10 23:29:39,611 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/pracezdomovahomeoffice
+2026-01-10 23:29:53,995 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:30:00,686 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:30:00,688 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:30:00,691 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:30:03,853 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:30:03,979 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:30:03,985 - INFO - ➡️ Duke vazhduar te grupi tjetër (17.7s)
+2026-01-10 23:30:21,660 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 23:30:21,681 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/269627771348213
+2026-01-10 23:30:21,711 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 23:30:21,713 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 23:30:21,716 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/WG.Zimmer.Wohnung
+2026-01-10 23:30:21,719 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/313001956019820
+2026-01-10 23:30:21,722 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 23:30:34,422 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:30:34,889 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:30:34,891 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:30:34,898 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:30:38,025 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:30:38,511 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:30:38,518 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.3s)
+2026-01-10 23:30:53,815 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-10 23:30:53,840 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/830508800410977
+2026-01-10 23:30:53,862 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-10 23:30:53,865 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3204461236475060
+2026-01-10 23:30:53,868 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/199170437481151
+2026-01-10 23:31:09,849 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:31:14,444 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:31:14,449 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:31:14,453 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:31:17,944 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:31:18,188 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:31:19,172 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:31:23,444 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:31:23,531 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 23:31:23,702 - INFO - ✅ Modal input u klikua
+2026-01-10 23:31:24,716 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 23:31:26,559 - INFO - ✅ Teksti u fut me paste
+2026-01-10 23:31:28,277 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 23:31:28,474 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 23:31:31,183 - INFO - ✅ Post button clicked!
+2026-01-10 23:31:35,227 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 23:31:35,252 - INFO - 💾 Grupi u ruajt në historik: 85 grupe | 📊 Total: 83 postime
+2026-01-10 23:31:35,252 - INFO - 📊 Totali: 23 postime (INFINITE MODE)
+2026-01-10 23:31:35,266 - INFO - ⏳ Pritje 84 sekonda (1.4 min)...
+2026-01-10 23:32:59,570 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1854423604847576
+2026-01-10 23:33:14,137 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:33:14,503 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:33:14,504 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:33:14,508 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:33:17,594 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:33:17,736 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:33:17,741 - INFO - ➡️ Duke vazhduar te grupi tjetër (12.3s)
+2026-01-10 23:33:30,073 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 23:33:30,096 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/jobs.kleinanzeigen.schweiz
+2026-01-10 23:33:46,252 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:33:46,484 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:33:46,486 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:33:46,492 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:33:49,561 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:33:49,668 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:33:49,672 - INFO - ➡️ Duke vazhduar te grupi tjetër (17.9s)
+2026-01-10 23:34:07,605 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/241469358265719
+2026-01-10 23:34:07,629 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/286395893586360
+2026-01-10 23:34:07,651 - INFO - 🔍 Kërko grupe të REJA për: Frankfurt
+2026-01-10 23:34:07,658 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-10 23:34:27,062 - INFO - ✅ Gjeti 33 grupe UNIQUE për Frankfurt
+2026-01-10 23:34:27,078 - INFO - ✅ Gjeti 33 grupe për Frankfurt
+2026-01-10 23:34:27,094 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-10 23:34:27,094 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/241469358265719
+2026-01-10 23:34:27,094 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-10 23:34:27,110 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/836663645786365
+2026-01-10 23:34:27,112 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-10 23:34:27,112 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/740435450847531
+2026-01-10 23:34:27,112 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/269627771348213
+2026-01-10 23:34:27,112 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-10 23:34:39,692 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:34:46,064 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:34:46,088 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:34:46,118 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:34:51,739 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:34:51,864 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:34:54,448 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:34:58,136 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:34:58,418 - INFO - ✅ U gjet modal input: //div[@contenteditable='true'][@role='textbox']
+2026-01-10 23:35:00,285 - ERROR - Error clicking modal input: Message: element click intercepted: Element <div aria-label="Comment as Sophie" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw notranslate" contenteditable="true" role="textbox" spellcheck="true" tabindex="0" aria-placeholder="Comment as Sophie" style="user-select: text; white-space: pre-wrap; word-break: break-word;" data-lexical-editor="true">...</div> is not clickable at point (701, 720). Other element would receive the click: <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f84488d5
+	0x7ff6f8448930
+	0x7ff6f822165d
+	0x7ff6f82819e8
+	0x7ff6f827f40f
+	0x7ff6f827c417
+	0x7ff6f827b338
+	0x7ff6f826ce7f
+	0x7ff6f82a1fda
+	0x7ff6f826c746
+	0x7ff6f82cac97
+	0x7ff6f826ac29
+	0x7ff6f826ba93
+	0x7ff6f8760620
+	0x7ff6f875af60
+	0x7ff6f87796c6
+	0x7ff6f8465dd4
+	0x7ff6f846ed7c
+	0x7ff6f8451ff4
+	0x7ff6f84521a5
+	0x7ff6f8437ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-10 23:35:00,313 - INFO - ➡️ Duke vazhduar te grupi tjetër (15.3s)
+2026-01-10 23:35:15,589 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/click10x
+2026-01-10 23:35:15,619 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/jobs.kleinanzeigen.schweiz
+2026-01-10 23:35:28,251 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:35:28,539 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:35:28,541 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:35:28,548 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:35:31,642 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:35:31,780 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:35:31,789 - INFO - ➡️ Duke vazhduar te grupi tjetër (10.0s)
+2026-01-10 23:35:41,828 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-10 23:35:41,831 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-10 23:35:41,834 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-10 23:35:41,841 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/500696104091094
+2026-01-10 23:35:56,646 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:35:56,802 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:35:56,803 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:35:56,807 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:35:59,886 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:36:00,020 - WARNING - ❌ Nuk u gjet text input
+2026-01-10 23:36:00,025 - INFO - ➡️ Duke vazhduar te grupi tjetër (17.2s)
+2026-01-10 23:36:17,300 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-10 23:36:17,322 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-10 23:36:17,346 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-10 23:36:17,347 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/365823779411632
+2026-01-10 23:36:17,353 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/675671539203570
+2026-01-10 23:36:33,265 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-10 23:36:33,481 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-10 23:36:33,483 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-10 23:36:33,488 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-10 23:36:36,668 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-10 23:36:37,215 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-10 23:36:38,251 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-10 23:36:42,260 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-10 23:36:42,362 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-10 23:36:42,674 - INFO - ✅ Modal input u klikua
+2026-01-10 23:36:43,684 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-10 23:36:45,495 - INFO - ✅ Teksti u fut me paste
+2026-01-10 23:36:47,481 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-10 23:36:47,697 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-10 23:36:50,481 - INFO - ✅ Post button clicked!
+2026-01-10 23:36:55,182 - INFO - ✅ Postimi u bë me sukses!
+2026-01-10 23:36:55,207 - INFO - 💾 Grupi u ruajt në historik: 86 grupe | 📊 Total: 84 postime
+2026-01-10 23:36:55,210 - INFO - 📊 Totali: 24 postime (INFINITE MODE)
+2026-01-10 23:36:55,217 - INFO - ⏳ Pritje 105 sekonda (1.7 min)...
+2026-01-10 23:37:53,519 - INFO - 🛑 Duke ndalur...
+2026-01-10 23:37:55,809 - INFO - Browser closed
