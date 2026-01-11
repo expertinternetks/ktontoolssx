@@ -1869,10 +1869,10 @@ class AutoMessengerGUI:
         """Setup UI"""
         
         # Title
-        title_frame = ttk.Frame(self.root, padding="10")
-        title_frame.grid(row=0, column=0, sticky=(tk.W, tk.E))
+#         title_frame = ttk.Frame(self.root, padding="10")
+#         title_frame.grid(row=0, column=0, sticky=(tk.W, tk.E))
         
-        title_label = ttk.Label(
+#         title_label = ttk.Label(
             title_frame,
             text="🚀 Facebook Auto Messenger - FULLY AUTOMATED",
             font=("Arial", 16, "bold")
@@ -1880,53 +1880,53 @@ class AutoMessengerGUI:
         title_label.pack()
         
         # Info Frame
-        info_frame = ttk.LabelFrame(self.root, text="ℹ️ Status", padding="10")
-        info_frame.grid(row=1, column=0, padx=10, pady=5, sticky=(tk.W, tk.E))
+#         info_frame = ttk.LabelFrame(self.root, text="ℹ️ Status", padding="10")
+#         info_frame.grid(row=1, column=0, padx=10, pady=5, sticky=(tk.W, tk.E))
         
-        ttk.Label(
+#         ttk.Label(
             info_frame,
             text="✅ Sesioni i ruajtur - LOGIN MOS DUHET!",
             foreground="green",
             font=("Arial", 10, "bold")
         ).pack(pady=2)
         
-        ttk.Label(
+#         ttk.Label(
             info_frame,
             text="🤖 Programi do të punojë 100% automatikisht - thjesht klik START",
             foreground="blue"
         ).pack(pady=2)
         
         # Settings Frame
-        settings_frame = ttk.LabelFrame(self.root, text="Konfigurimi", padding="10")
-        settings_frame.grid(row=2, column=0, padx=10, pady=5, sticky=(tk.W, tk.E))
+#         settings_frame = ttk.LabelFrame(self.root, text="Konfigurimi", padding="10")
+#         settings_frame.grid(row=2, column=0, padx=10, pady=5, sticky=(tk.W, tk.E))
         
-        ttk.Label(settings_frame, text="Max Mesazhe:", font=("Arial", 10)).grid(row=0, column=0, sticky=tk.W, pady=5)
-        self.max_messages_var = tk.StringVar(value="20")
-        ttk.Entry(settings_frame, textvariable=self.max_messages_var, width=10, font=("Arial", 10)).grid(row=0, column=1, sticky=tk.W, padx=5)
+#         ttk.Label(settings_frame, text="Max Mesazhe:", font=("Arial", 10)).grid(row=0, column=0, sticky=tk.W, pady=5)
+#         self.max_messages_var = tk.StringVar(value="20")
+#         ttk.Entry(settings_frame, textvariable=self.max_messages_var, width=10, font=("Arial", 10)).grid(row=0, column=1, sticky=tk.W, padx=5)
         
-        ttk.Label(settings_frame, text="Max Friend Requests:", font=("Arial", 10)).grid(row=0, column=2, sticky=tk.W, pady=5, padx=(20,0))
-        self.max_friends_var = tk.StringVar(value="20")
-        ttk.Entry(settings_frame, textvariable=self.max_friends_var, width=10, font=("Arial", 10)).grid(row=0, column=3, sticky=tk.W, padx=5)
+#         ttk.Label(settings_frame, text="Max Friend Requests:", font=("Arial", 10)).grid(row=0, column=2, sticky=tk.W, pady=5, padx=(20,0))
+#         self.max_friends_var = tk.StringVar(value="20")
+#         ttk.Entry(settings_frame, textvariable=self.max_friends_var, width=10, font=("Arial", 10)).grid(row=0, column=3, sticky=tk.W, padx=5)
         
-        ttk.Label(settings_frame, text="Grupi Facebook:", font=("Arial", 10)).grid(row=1, column=0, sticky=tk.W, pady=5)
-        self.group_entry = ttk.Entry(settings_frame, width=70, font=("Arial", 9))
+#         ttk.Label(settings_frame, text="Grupi Facebook:", font=("Arial", 10)).grid(row=1, column=0, sticky=tk.W, pady=5)
+#         self.group_entry = ttk.Entry(settings_frame, width=70, font=("Arial", 9))
         self.group_entry.insert(0, "https://www.facebook.com/groups/werbungprofessional/")
-        self.group_entry.grid(row=1, column=1, columnspan=3, padx=5, pady=5, sticky=tk.W)
+#         self.group_entry.grid(row=1, column=1, columnspan=3, padx=5, pady=5, sticky=tk.W)
         
         # Group posting settings
-        ttk.Label(settings_frame, text="Max Postime:", font=("Arial", 10)).grid(row=2, column=0, sticky=tk.W, pady=5)
-        self.max_posts_var = tk.StringVar(value="20")
-        ttk.Entry(settings_frame, textvariable=self.max_posts_var, width=10, font=("Arial", 10)).grid(row=2, column=1, sticky=tk.W, padx=5)
+#         ttk.Label(settings_frame, text="Max Postime:", font=("Arial", 10)).grid(row=2, column=0, sticky=tk.W, pady=5)
+#         self.max_posts_var = tk.StringVar(value="20")
+#         ttk.Entry(settings_frame, textvariable=self.max_posts_var, width=10, font=("Arial", 10)).grid(row=2, column=1, sticky=tk.W, padx=5)
         
-        ttk.Label(settings_frame, text="Qytete (Berlin,München,...):", font=("Arial", 10)).grid(row=2, column=2, sticky=tk.W, pady=5, padx=(20,0))
-        self.cities_var = tk.StringVar(value="Berlin,Stuttgart,München,Hamburg")
-        ttk.Entry(settings_frame, textvariable=self.cities_var, width=30, font=("Arial", 9)).grid(row=2, column=3, sticky=tk.W, padx=5)
+#         ttk.Label(settings_frame, text="Qytete (Berlin,München,...):", font=("Arial", 10)).grid(row=2, column=2, sticky=tk.W, pady=5, padx=(20,0))
+#         self.cities_var = tk.StringVar(value="Berlin,Stuttgart,München,Hamburg")
+#         ttk.Entry(settings_frame, textvariable=self.cities_var, width=30, font=("Arial", 9)).grid(row=2, column=3, sticky=tk.W, padx=5)
         
         # Buttons
-        button_frame = ttk.Frame(self.root, padding="10")
+#         button_frame = ttk.Frame(self.root, padding="10")
         button_frame.grid(row=3, column=0, pady=10)
         
-        self.add_friends_button = ttk.Button(
+#         self.add_friends_button = ttk.Button(
             button_frame,
             text="👥  Freunde hinzufügen",
             command=self._start_add_friends,
@@ -1934,7 +1934,7 @@ class AutoMessengerGUI:
         )
         self.add_friends_button.grid(row=0, column=0, padx=5)
         
-        self.start_button = ttk.Button(
+#         self.start_button = ttk.Button(
             button_frame,
             text="▶️  START (Mesazhe)",
             command=self._start_automation,
@@ -1942,7 +1942,7 @@ class AutoMessengerGUI:
         )
         self.start_button.grid(row=0, column=1, padx=5)
         
-        self.post_groups_button = ttk.Button(
+#         self.post_groups_button = ttk.Button(
             button_frame,
             text="📝  Posto në Grupe",
             command=self._start_group_posting,
@@ -1950,7 +1950,7 @@ class AutoMessengerGUI:
         )
         self.post_groups_button.grid(row=0, column=2, padx=5)
         
-        self.comment_groups_button = ttk.Button(
+#         self.comment_groups_button = ttk.Button(
             button_frame,
             text="💬  Komento në Grupe",
             command=self._start_group_commenting,
@@ -1958,26 +1958,26 @@ class AutoMessengerGUI:
         )
         self.comment_groups_button.grid(row=1, column=0, padx=5, pady=5)
         
-        self.stop_button = ttk.Button(
+#         self.stop_button = ttk.Button(
             button_frame,
             text="⬛  STOP",
             command=self._stop_automation,
-            state=tk.DISABLED,
+#             state=tk.DISABLED,
             width=22
         )
         self.stop_button.grid(row=1, column=1, padx=5, pady=5)
         
         # Log
-        log_frame = ttk.LabelFrame(self.root, text="📊 Activity Log", padding="10")
-        log_frame.grid(row=4, column=0, padx=10, pady=5, sticky=(tk.W, tk.E, tk.N, tk.S))
+#         log_frame = ttk.LabelFrame(self.root, text="📊 Activity Log", padding="10")
+#         log_frame.grid(row=4, column=0, padx=10, pady=5, sticky=(tk.W, tk.E, tk.N, tk.S))
         
-        self.log_text = scrolledtext.ScrolledText(log_frame, width=110, height=22, state=tk.DISABLED, font=("Courier", 9))
-        self.log_text.pack(fill=tk.BOTH, expand=True)
+#         self.log_text = scrolledtext.ScrolledText(log_frame, width=110, height=22, state=tk.DISABLED, font=("Courier", 9))
+#         self.log_text.pack(fill=tk.BOTH, expand=True)
         
         # Status
-        self.status_var = tk.StringVar(value="Ready - Klik START për të filluar")
-        status_bar = ttk.Label(self.root, textvariable=self.status_var, relief=tk.SUNKEN, anchor=tk.W)
-        status_bar.grid(row=5, column=0, sticky=(tk.W, tk.E))
+#         self.status_var = tk.StringVar(value="Ready - Klik START për të filluar")
+#         status_bar = ttk.Label(self.root, textvariable=self.status_var, relief=tk.SUNKEN, anchor=tk.W)
+#         status_bar.grid(row=5, column=0, sticky=(tk.W, tk.E))
         
         self._setup_logging_redirect()
         
@@ -1991,10 +1991,10 @@ class AutoMessengerGUI:
             def emit(self, record):
                 msg = self.format(record)
                 def append():
-                    self.text_widget.configure(state=tk.NORMAL)
-                    self.text_widget.insert(tk.END, msg + '\n')
-                    self.text_widget.configure(state=tk.DISABLED)
-                    self.text_widget.see(tk.END)
+#                     self.text_widget.configure(state=tk.NORMAL)
+#                     self.text_widget.insert(tk.END, msg + '\n')
+#                     self.text_widget.configure(state=tk.DISABLED)
+#                     self.text_widget.see(tk.END)
                 self.text_widget.after(0, append)
         
         text_handler = TextHandler(self.log_text)
@@ -2014,11 +2014,11 @@ class AutoMessengerGUI:
             messagebox.showerror("Error", "Zgjidh një grup!")
             return
         
-        self.add_friends_button.config(state=tk.DISABLED)
-        self.start_button.config(state=tk.DISABLED)
-        self.post_groups_button.config(state=tk.DISABLED)
-        self.comment_groups_button.config(state=tk.DISABLED)
-        self.stop_button.config(state=tk.NORMAL)
+#         self.add_friends_button.config(state=tk.DISABLED)
+#         self.start_button.config(state=tk.DISABLED)
+#         self.post_groups_button.config(state=tk.DISABLED)
+#         self.comment_groups_button.config(state=tk.DISABLED)
+#         self.stop_button.config(state=tk.NORMAL)
         self.status_var.set("Running - Adding Friends...")
         
         self.automation_thread = threading.Thread(
@@ -2041,11 +2041,11 @@ class AutoMessengerGUI:
             messagebox.showerror("Error", "Zgjidh një grup!")
             return
         
-        self.add_friends_button.config(state=tk.DISABLED)
-        self.start_button.config(state=tk.DISABLED)
-        self.post_groups_button.config(state=tk.DISABLED)
-        self.comment_groups_button.config(state=tk.DISABLED)
-        self.stop_button.config(state=tk.NORMAL)
+#         self.add_friends_button.config(state=tk.DISABLED)
+#         self.start_button.config(state=tk.DISABLED)
+#         self.post_groups_button.config(state=tk.DISABLED)
+#         self.comment_groups_button.config(state=tk.DISABLED)
+#         self.stop_button.config(state=tk.NORMAL)
         self.status_var.set("Running - Sending Messages...")
         
         self.automation_thread = threading.Thread(
@@ -2091,11 +2091,11 @@ class AutoMessengerGUI:
             messagebox.showerror("Error", "Shto qytete të vlefshme!")
             return
         
-        self.add_friends_button.config(state=tk.DISABLED)
-        self.start_button.config(state=tk.DISABLED)
-        self.post_groups_button.config(state=tk.DISABLED)
-        self.comment_groups_button.config(state=tk.DISABLED)
-        self.stop_button.config(state=tk.NORMAL)
+#         self.add_friends_button.config(state=tk.DISABLED)
+#         self.start_button.config(state=tk.DISABLED)
+#         self.post_groups_button.config(state=tk.DISABLED)
+#         self.comment_groups_button.config(state=tk.DISABLED)
+#         self.stop_button.config(state=tk.NORMAL)
         self.status_var.set("Running - Posting to Groups...")
         
         self.automation_thread = threading.Thread(
@@ -2132,11 +2132,11 @@ class AutoMessengerGUI:
             messagebox.showerror("Error", "Shto qytete të vlefshme!")
             return
         
-        self.add_friends_button.config(state=tk.DISABLED)
-        self.start_button.config(state=tk.DISABLED)
-        self.post_groups_button.config(state=tk.DISABLED)
-        self.comment_groups_button.config(state=tk.DISABLED)
-        self.stop_button.config(state=tk.NORMAL)
+#         self.add_friends_button.config(state=tk.DISABLED)
+#         self.start_button.config(state=tk.DISABLED)
+#         self.post_groups_button.config(state=tk.DISABLED)
+#         self.comment_groups_button.config(state=tk.DISABLED)
+#         self.stop_button.config(state=tk.NORMAL)
         self.status_var.set("Running - Commenting on Groups...")
         
         self.automation_thread = threading.Thread(
@@ -2162,11 +2162,11 @@ class AutoMessengerGUI:
     
     def _automation_finished(self):
         """Finished"""
-        self.add_friends_button.config(state=tk.NORMAL)
-        self.start_button.config(state=tk.NORMAL)
-        self.post_groups_button.config(state=tk.NORMAL)
-        self.comment_groups_button.config(state=tk.NORMAL)
-        self.stop_button.config(state=tk.DISABLED)
+#         self.add_friends_button.config(state=tk.NORMAL)
+#         self.start_button.config(state=tk.NORMAL)
+#         self.post_groups_button.config(state=tk.NORMAL)
+#         self.comment_groups_button.config(state=tk.NORMAL)
+#         self.stop_button.config(state=tk.DISABLED)
         self.status_var.set("Ready")
         messagebox.showinfo("✅ Perfundoi!", "Automatizimi përfundoi!")
     
@@ -2184,7 +2184,7 @@ class AutoMessengerGUI:
 
 def main():
     """Main"""
-    root = tk.Tk()
+#     root = tk.Tk()
     app = AutoMessengerGUI(root)
     root.protocol("WM_DELETE_WINDOW", app.on_closing)
     root.mainloop()
