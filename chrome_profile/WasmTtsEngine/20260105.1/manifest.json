@@ -1,5 +1,3 @@
-{
-  "manifest_version": 2,
-  "name": "WASM TTS Engine",
-  "version": "20260105.1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a17cd95852176b3527d5203067d726c0e84e7ddd14852cafed9b45e73c55b6a
+size 83

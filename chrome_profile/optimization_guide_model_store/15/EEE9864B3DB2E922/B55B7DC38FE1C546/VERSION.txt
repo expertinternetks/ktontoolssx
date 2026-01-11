@@ -1,4 +1,3 @@
-This is the model for the Browsing Topics Privacy Sandbox feature.
-
-Model Version: 5
-Taxonomy Version: v2
+version https://git-lfs.github.com/spec/v1
+oid sha256:176033a28b6257a40a7827eae8142610a7e42a7d67bc507512712c186d4612a4
+size 106
