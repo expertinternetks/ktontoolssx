@@ -1,1 +1,1 @@
-web: python FacebookAutomation.py 
+worker: python FacebookAutomation.py 
