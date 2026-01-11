@@ -1,0 +1,346 @@
+2026-01-11 11:56:20,335 - INFO - 📂 Loaded 86 groups from history
+2026-01-11 11:56:20,335 - INFO - 📂 Loaded 31 visited profiles from history
+2026-01-11 11:56:20,376 - INFO - 📂 Loaded 16 commented groups from history
+2026-01-11 11:56:20,422 - INFO - 📊 Statistikat: 84 postime, 0 komente, 5 mesazhe, 2 shokë
+2026-01-11 11:56:32,048 - INFO - ✅ WebDriver initialized - Duke përdorur sesionin e ruajtur
+2026-01-11 11:56:39,562 - INFO - ✅ Already logged in - Duke filluar automatizimin!
+2026-01-11 11:56:39,565 - INFO - 
+=== 🚀 AUTO MODE AKTIVIZUAR ===
+2026-01-11 11:56:39,577 - INFO - Do të bëjë: Posting + Komentim + Shokë + Mesazhe
+2026-01-11 11:56:39,603 - INFO - ♾️ INFINITE - nuk ndalet kurrë!
+
+2026-01-11 11:56:39,603 - INFO - 
+
+========== 🔄 CIKLI #1 ==========
+
+2026-01-11 11:56:39,645 - INFO - 📝 HAPI 1: Duke postuar në grup...
+2026-01-11 11:56:39,719 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-11 11:56:59,071 - INFO - ✅ Gjeti 10 grupe UNIQUE për Frankfurt
+2026-01-11 11:56:59,087 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/358450254710535
+2026-01-11 11:57:11,203 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-11 11:57:11,422 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-11 11:57:11,424 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-11 11:57:11,443 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-11 11:57:14,669 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-11 11:57:14,755 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-11 11:57:15,605 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-11 11:57:19,802 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-11 11:57:19,889 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-11 11:57:20,052 - INFO - ✅ Modal input u klikua
+2026-01-11 11:57:21,054 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-11 11:57:22,752 - INFO - ✅ Teksti u fut me paste
+2026-01-11 11:57:24,521 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-11 11:57:24,675 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-11 11:57:27,376 - INFO - ✅ Post button clicked!
+2026-01-11 11:57:31,684 - INFO - ✅ Postimi u bë me sukses!
+2026-01-11 11:57:33,897 - INFO - 💾 Grupi u ruajt në historik: 87 grupe | 📊 Total: 85 postime
+2026-01-11 11:57:34,069 - INFO - ✅ Postimi u bë! Total: 85
+2026-01-11 11:58:14,525 - INFO - 💬 HAPI 2: Duke komentuar në grup...
+2026-01-11 11:58:14,553 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-11 11:58:31,125 - INFO - ✅ Gjeti 10 grupe UNIQUE për Frankfurt
+2026-01-11 11:58:31,141 - INFO - 💬 Duke komentuar në grupin: https://www.facebook.com/groups/358450254710535
+2026-01-11 11:58:44,750 - INFO - 🔍 Duke kërkuar postime...
+2026-01-11 11:58:47,085 - INFO -   Scroll #1/5
+2026-01-11 11:58:49,352 - INFO -   Scroll #2/5
+2026-01-11 11:58:51,169 - INFO -   Scroll #3/5
+2026-01-11 11:58:53,637 - INFO -   Scroll #4/5
+2026-01-11 11:58:55,498 - INFO -   Scroll #5/5
+2026-01-11 11:58:56,964 - INFO - 🔍 Duke kërkuar postime me Comment button...
+2026-01-11 11:58:57,106 - INFO -   Gjeti 3 postime me xpath: //div[@role='article']
+2026-01-11 11:58:59,755 - INFO -   Gjeti 22 postime me xpath: //div[contains(@class, 'x1yztbdb')]
+2026-01-11 11:59:03,555 - INFO -   ✅ Gjet Comment button në postim #8
+2026-01-11 11:59:03,555 - INFO - ✅ U gjet postim i VALID për komentim (#8)
+2026-01-11 11:59:07,185 - INFO - 👆 Duke klikuar në Comment button...
+2026-01-11 11:59:07,471 - INFO - ✅ Comment button u klikua
+2026-01-11 11:59:11,219 - INFO - 🔍 Duke kërkuar clickable comment text për të klikuar...
+2026-01-11 11:59:11,336 - INFO - ✅ U gjet 'Comment as Sophie' TEXT: //div[contains(text(), 'Comment as')]
+2026-01-11 11:59:11,340 - INFO - 👆 Duke klikuar në 'Comment as Sophie' TEXT...
+2026-01-11 11:59:13,003 - WARNING - Nuk u klikua text: Message: element click intercepted: Element <div class="xi81zsa x1o0tod x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x13vifvy x87ps6o xuxw1ft xh8yej3">...</div> is not clickable at point (521, 366). Other element would receive the click: <div class="x1ey2m1c x78zum5 xdt5ytf xozqiw3 x1o0tod x13a6bvl x10l6tqk x13vifvy xq2gx43 xh8yej3">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b37b19e8
+	0x7ff7b37af40f
+	0x7ff7b37ac417
+	0x7ff7b37ab338
+	0x7ff7b379ce7f
+	0x7ff7b37d1fda
+	0x7ff7b379c746
+	0x7ff7b37fac97
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 11:59:13,004 - INFO - 🔍 Duke kërkuar textarea input...
+2026-01-11 11:59:13,072 - INFO - ✅ U gjet textarea input: //div[@contenteditable='true'][@role='textbox']
+2026-01-11 11:59:13,072 - INFO - 📝 Duke shkruar komentin në textarea...
+2026-01-11 11:59:14,205 - ERROR - Error commenting on post: Message: element click intercepted: Element <div aria-label="Comment as Sophie" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw notranslate" contenteditable="true" role="textbox" spellcheck="true" tabindex="0" aria-placeholder="Comment as Sophie" data-lexical-editor="true" style="user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (521, 366). Other element would receive the click: <div class="x1ey2m1c x78zum5 xdt5ytf xozqiw3 x1o0tod x13a6bvl x10l6tqk x13vifvy xq2gx43 xh8yej3">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b37b19e8
+	0x7ff7b37af40f
+	0x7ff7b37ac417
+	0x7ff7b37ab338
+	0x7ff7b379ce7f
+	0x7ff7b37d1fda
+	0x7ff7b379c746
+	0x7ff7b37fac97
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 11:59:14,205 - INFO - 👥 HAPI 3: Duke shëngu shokë...
+2026-01-11 11:59:14,205 - INFO - 📋 Duke hapur faqen e members: https://www.facebook.com/groups/werbungprofessional/members
+2026-01-11 11:59:26,052 - INFO - Scroll 1/15: U gjetën 0 members të rinj (PA ADMIN)
+2026-01-11 11:59:30,267 - INFO - Scroll 2/15: U gjetën 1 members të rinj (PA ADMIN)
+2026-01-11 11:59:35,147 - INFO - Scroll 3/15: U gjetën 11 members të rinj (PA ADMIN)
+2026-01-11 11:59:39,777 - INFO - Scroll 4/15: U gjetën 21 members të rinj (PA ADMIN)
+2026-01-11 11:59:45,051 - INFO - Scroll 5/15: U gjetën 31 members të rinj (PA ADMIN)
+2026-01-11 11:59:51,612 - INFO - Scroll 6/15: U gjetën 41 members të rinj (PA ADMIN)
+2026-01-11 11:59:59,470 - INFO - Scroll 7/15: U gjetën 51 members të rinj (PA ADMIN)
+2026-01-11 12:00:07,050 - INFO - Scroll 8/15: U gjetën 61 members të rinj (PA ADMIN)
+2026-01-11 12:00:16,194 - INFO - Scroll 9/15: U gjetën 71 members të rinj (PA ADMIN)
+2026-01-11 12:00:25,324 - INFO - Scroll 10/15: U gjetën 81 members të rinj (PA ADMIN)
+2026-01-11 12:00:34,016 - INFO - Scroll 11/15: U gjetën 90 members të rinj (PA ADMIN)
+2026-01-11 12:00:44,007 - INFO - Scroll 12/15: U gjetën 100 members të rinj (PA ADMIN)
+2026-01-11 12:00:44,007 - INFO - ✅ U gjetën mjaftueshëm members, duke ndaluar scroll
+2026-01-11 12:00:44,014 - INFO - ✅ Total members të rinj (pa admin): 100
+2026-01-11 12:02:48,686 - INFO - ✅ U shëngun 0 shokë në këtë cikl
+2026-01-11 12:02:48,719 - INFO - ✉️ HAPI 4: Duke dërgu mesazhe...
+2026-01-11 12:02:48,757 - INFO - 📋 Duke hapur faqen e members: https://www.facebook.com/groups/werbungprofessional/members
+2026-01-11 12:03:00,315 - INFO - Scroll 1/15: U gjetën 1 members të rinj (PA ADMIN)
+2026-01-11 12:03:05,012 - INFO - Scroll 2/15: U gjetën 11 members të rinj (PA ADMIN)
+2026-01-11 12:03:09,787 - INFO - Scroll 3/15: U gjetën 21 members të rinj (PA ADMIN)
+2026-01-11 12:03:17,926 - INFO - Scroll 4/15: U gjetën 31 members të rinj (PA ADMIN)
+2026-01-11 12:03:23,663 - INFO - Scroll 5/15: U gjetën 41 members të rinj (PA ADMIN)
+2026-01-11 12:03:30,482 - INFO - Scroll 6/15: U gjetën 51 members të rinj (PA ADMIN)
+2026-01-11 12:03:37,936 - INFO - Scroll 7/15: U gjetën 61 members të rinj (PA ADMIN)
+2026-01-11 12:03:51,105 - INFO - Scroll 8/15: U gjetën 71 members të rinj (PA ADMIN)
+2026-01-11 12:03:59,969 - INFO - Scroll 9/15: U gjetën 81 members të rinj (PA ADMIN)
+2026-01-11 12:04:10,227 - INFO - Scroll 10/15: U gjetën 90 members të rinj (PA ADMIN)
+2026-01-11 12:04:20,413 - INFO - Scroll 11/15: U gjetën 100 members të rinj (PA ADMIN)
+2026-01-11 12:04:20,413 - INFO - ✅ U gjetën mjaftueshëm members, duke ndaluar scroll
+2026-01-11 12:04:20,413 - INFO - ✅ Total members të rinj (pa admin): 100
+2026-01-11 12:04:20,431 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/61571779570113/
+2026-01-11 12:04:40,544 - WARNING - ❌ Message button not found - skipping
+2026-01-11 12:04:40,561 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/100063775474576/
+2026-01-11 12:04:53,565 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:04:55,732 - WARNING - ❌ Message input not found
+2026-01-11 12:04:55,732 - INFO - ✅ U dërgun 0 mesazhe në këtë cikl
+2026-01-11 12:04:55,732 - INFO - 
+=== ✅ AUTO MODE U NDAL! ===
+2026-01-11 12:05:08,824 - INFO - ✅ WebDriver initialized - Duke përdorur sesionin e ruajtur
+2026-01-11 12:05:15,739 - INFO - ✅ Already logged in - Duke filluar automatizimin!
+2026-01-11 12:05:15,739 - INFO - 
+=== 🚀 AUTO MODE AKTIVIZUAR ===
+2026-01-11 12:05:15,741 - INFO - Do të bëjë: Posting + Komentim + Shokë + Mesazhe
+2026-01-11 12:05:15,799 - INFO - ♾️ INFINITE - nuk ndalet kurrë!
+
+2026-01-11 12:05:15,810 - INFO - 
+
+========== 🔄 CIKLI #1 ==========
+
+2026-01-11 12:05:15,825 - INFO - 📝 HAPI 1: Duke postuar në grup...
+2026-01-11 12:05:15,836 - INFO - 🔍 Duke kërkuar grupe për: Frankfurt
+2026-01-11 12:05:32,398 - INFO - ✅ Gjeti 10 grupe UNIQUE për Frankfurt
+2026-01-11 12:05:32,414 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/521291092609890
+2026-01-11 12:05:45,177 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-11 12:05:45,367 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-11 12:05:45,367 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-11 12:05:45,383 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-11 12:05:48,437 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-11 12:05:48,501 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-11 12:05:50,307 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-11 12:05:53,519 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-11 12:05:53,591 - INFO - ✅ U gjet modal input: //div[contains(@aria-placeholder, 'Create a public post')]
+2026-01-11 12:05:53,766 - INFO - ✅ Modal input u klikua
+2026-01-11 12:05:54,778 - INFO - ✍️ Duke bërë paste tekstin në modal...
+2026-01-11 12:05:56,416 - INFO - ✅ Teksti u fut me paste
+2026-01-11 12:05:58,387 - INFO - 📸 Duke kërkuar Photo button në modal...
+2026-01-11 12:05:58,514 - WARNING - ⚠️ Nuk u gjet photo button - duke postuar vetëm tekst
+2026-01-11 12:06:01,191 - INFO - ✅ Post button clicked!
+2026-01-11 12:06:05,372 - INFO - ✅ Postimi u bë me sukses!
+2026-01-11 12:06:05,398 - INFO - 💾 Grupi u ruajt në historik: 88 grupe | 📊 Total: 86 postime
+2026-01-11 12:06:05,401 - INFO - ✅ Postimi u bë! Total: 86
+2026-01-11 12:06:51,498 - INFO - 💬 HAPI 2: Duke komentuar në grup...
+2026-01-11 12:06:51,530 - INFO - 🔍 Duke kërkuar grupe për: Hamburg
+2026-01-11 12:07:08,202 - INFO - ✅ Gjeti 10 grupe UNIQUE për Hamburg
+2026-01-11 12:07:08,212 - INFO - 💬 Duke komentuar në grupin: https://www.facebook.com/groups/521291092609890
+2026-01-11 12:07:21,587 - INFO - 🔍 Duke kërkuar postime...
+2026-01-11 12:07:23,492 - INFO -   Scroll #1/5
+2026-01-11 12:07:25,401 - INFO -   Scroll #2/5
+2026-01-11 12:07:27,106 - INFO -   Scroll #3/5
+2026-01-11 12:07:29,544 - INFO -   Scroll #4/5
+2026-01-11 12:07:31,653 - INFO -   Scroll #5/5
+2026-01-11 12:07:32,578 - INFO - 🔍 Duke kërkuar postime me Comment button...
+2026-01-11 12:07:32,626 - INFO -   Gjeti 6 postime me xpath: //div[@role='article']
+2026-01-11 12:07:36,632 - INFO -   Gjeti 22 postime me xpath: //div[contains(@class, 'x1yztbdb')]
+2026-01-11 12:07:40,524 - INFO -   ✅ Gjet Comment button në postim #12
+2026-01-11 12:07:40,525 - INFO - ✅ U gjet postim i VALID për komentim (#12)
+2026-01-11 12:07:43,172 - INFO - 👆 Duke klikuar në Comment button...
+2026-01-11 12:07:44,929 - INFO - ✅ Comment button u klikua
+2026-01-11 12:07:48,461 - INFO - 🔍 Duke kërkuar clickable comment text për të klikuar...
+2026-01-11 12:07:48,544 - INFO - ✅ U gjet 'Comment as Sophie' TEXT: //div[contains(text(), 'Comment as')]
+2026-01-11 12:07:48,546 - INFO - 👆 Duke klikuar në 'Comment as Sophie' TEXT...
+2026-01-11 12:07:50,234 - WARNING - Nuk u klikua text: Message: element click intercepted: Element <div class="xi81zsa x1o0tod x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x13vifvy x87ps6o xuxw1ft xh8yej3">...</div> is not clickable at point (701, 365). Other element would receive the click: <div class="xdj266r x14z9mp xat24cr x1lziwak x1vvkbs">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b37b19e8
+	0x7ff7b37af40f
+	0x7ff7b37ac417
+	0x7ff7b37ab338
+	0x7ff7b379ce7f
+	0x7ff7b37d1fda
+	0x7ff7b379c746
+	0x7ff7b37fac97
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 12:07:50,249 - INFO - 🔍 Duke kërkuar textarea input...
+2026-01-11 12:07:50,312 - INFO - ✅ U gjet textarea input: //div[@contenteditable='true'][@role='textbox']
+2026-01-11 12:07:50,318 - INFO - 📝 Duke shkruar komentin në textarea...
+2026-01-11 12:07:51,426 - ERROR - Error commenting on post: Message: element click intercepted: Element <div aria-label="Comment as Sophie" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw notranslate" contenteditable="true" role="textbox" spellcheck="true" tabindex="0" aria-placeholder="Comment as Sophie" data-lexical-editor="true" style="user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (701, 365). Other element would receive the click: <div class="xdj266r x14z9mp xat24cr x1lziwak x1vvkbs">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b37b19e8
+	0x7ff7b37af40f
+	0x7ff7b37ac417
+	0x7ff7b37ab338
+	0x7ff7b379ce7f
+	0x7ff7b37d1fda
+	0x7ff7b379c746
+	0x7ff7b37fac97
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 12:07:51,428 - INFO - 👥 HAPI 3: Duke shëngu shokë...
+2026-01-11 12:07:51,433 - INFO - 📋 Duke hapur faqen e members: https://www.facebook.com/groups/werbungprofessional/members
+2026-01-11 12:08:02,186 - INFO - Scroll 1/15: U gjetën 0 members të rinj (PA ADMIN)
+2026-01-11 12:08:06,641 - INFO - Scroll 2/15: U gjetën 0 members të rinj (PA ADMIN)
+2026-01-11 12:08:12,235 - INFO - Scroll 3/15: U gjetën 9 members të rinj (PA ADMIN)
+2026-01-11 12:08:17,478 - INFO - Scroll 4/15: U gjetën 19 members të rinj (PA ADMIN)
+2026-01-11 12:08:23,159 - INFO - Scroll 5/15: U gjetën 29 members të rinj (PA ADMIN)
+2026-01-11 12:08:30,969 - INFO - Scroll 6/15: U gjetën 39 members të rinj (PA ADMIN)
+2026-01-11 12:08:38,517 - INFO - Scroll 7/15: U gjetën 49 members të rinj (PA ADMIN)
+2026-01-11 12:08:45,937 - INFO - Scroll 8/15: U gjetën 59 members të rinj (PA ADMIN)
+2026-01-11 12:08:54,009 - INFO - Scroll 9/15: U gjetën 59 members të rinj (PA ADMIN)
+2026-01-11 12:08:54,009 - INFO - ✅ Nuk ka më members të rinj
+2026-01-11 12:08:54,009 - INFO - ✅ Total members të rinj (pa admin): 59
+2026-01-11 12:09:31,634 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:09:33,842 - INFO - ✅ U shëngun 0 shokë në këtë cikl
+2026-01-11 12:09:33,842 - INFO - 
+=== ✅ AUTO MODE U NDAL! ===
+2026-01-11 12:09:41,070 - INFO - ✅ WebDriver initialized - Duke përdorur sesionin e ruajtur
+2026-01-11 12:09:47,804 - INFO - ✅ Already logged in - Duke filluar automatizimin!
+2026-01-11 12:09:47,806 - INFO - 
+=== Duke filluar automatizimin ===
+2026-01-11 12:09:47,808 - INFO - Grupi: https://www.facebook.com/groups/werbungprofessional/
+2026-01-11 12:09:47,808 - INFO - Max mesazhe: 20
+
+2026-01-11 12:09:47,808 - INFO - 
+🔄 Duke gjetur members...
+2026-01-11 12:09:47,808 - INFO - 📋 Duke hapur faqen e members: https://www.facebook.com/groups/werbungprofessional/members
+2026-01-11 12:09:58,584 - INFO - Scroll 1/15: U gjetën 0 members të rinj (PA ADMIN)
+2026-01-11 12:10:02,829 - INFO - Scroll 2/15: U gjetën 0 members të rinj (PA ADMIN)
+2026-01-11 12:10:09,797 - INFO - Scroll 3/15: U gjetën 9 members të rinj (PA ADMIN)
+2026-01-11 12:10:15,271 - INFO - Scroll 4/15: U gjetën 19 members të rinj (PA ADMIN)
+2026-01-11 12:10:19,989 - INFO - Scroll 5/15: U gjetën 29 members të rinj (PA ADMIN)
+2026-01-11 12:10:26,756 - INFO - Scroll 6/15: U gjetën 39 members të rinj (PA ADMIN)
+2026-01-11 12:10:33,613 - INFO - Scroll 7/15: U gjetën 49 members të rinj (PA ADMIN)
+2026-01-11 12:10:41,615 - INFO - Scroll 8/15: U gjetën 59 members të rinj (PA ADMIN)
+2026-01-11 12:10:50,034 - INFO - Scroll 9/15: U gjetën 69 members të rinj (PA ADMIN)
+2026-01-11 12:10:59,570 - INFO - Scroll 10/15: U gjetën 88 members të rinj (PA ADMIN)
+2026-01-11 12:11:10,373 - INFO - Scroll 11/15: U gjetën 98 members të rinj (PA ADMIN)
+2026-01-11 12:11:21,136 - INFO - Scroll 12/15: U gjetën 108 members të rinj (PA ADMIN)
+2026-01-11 12:11:21,136 - INFO - ✅ U gjetën mjaftueshëm members, duke ndaluar scroll
+2026-01-11 12:11:21,136 - INFO - ✅ Total members të rinj (pa admin): 108
+2026-01-11 12:11:21,153 - INFO - ✅ Gjeti 108 members. Duke filluar dërgimin...
+
+2026-01-11 12:11:21,153 - INFO - 
+👤 Personi 1/108
+2026-01-11 12:11:21,153 - INFO -    URL: https://www.facebook.com/groups/188602897972628/user/61581581541629/
+2026-01-11 12:11:21,248 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/61581581541629/
+2026-01-11 12:11:42,845 - INFO - ✅ Mesazhi u dërgua me sukses! | 📊 Total: 6 mesazhe
+2026-01-11 12:11:43,873 - INFO - 📊 Totali: 1/20 mesazhe
+2026-01-11 12:11:44,401 - INFO - ⏳ Pritje 2.5 minuta...
+2026-01-11 12:14:12,946 - INFO - 
+👤 Personi 2/108
+2026-01-11 12:14:12,989 - INFO -    URL: https://www.facebook.com/groups/188602897972628/user/100053702432386/
+2026-01-11 12:14:13,016 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/100053702432386/
+2026-01-11 12:14:33,336 - INFO - ✅ Mesazhi u dërgua me sukses! | 📊 Total: 7 mesazhe
+2026-01-11 12:14:34,347 - INFO - 📊 Totali: 2/20 mesazhe
+2026-01-11 12:14:34,355 - INFO - ⏳ Pritje 2.3 minuta...
+2026-01-11 12:16:52,622 - INFO - 
+👤 Personi 3/108
+2026-01-11 12:16:52,651 - INFO -    URL: https://www.facebook.com/groups/188602897972628/user/61562999864005/
+2026-01-11 12:16:52,667 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/61562999864005/
+2026-01-11 12:17:13,691 - INFO - ✅ Mesazhi u dërgua me sukses! | 📊 Total: 8 mesazhe
+2026-01-11 12:17:14,714 - INFO - 📊 Totali: 3/20 mesazhe
+2026-01-11 12:17:15,166 - INFO - ⏳ Pritje 2.7 minuta...
+2026-01-11 12:19:54,803 - INFO - 
+👤 Personi 4/108
+2026-01-11 12:19:54,833 - INFO -    URL: https://www.facebook.com/groups/188602897972628/user/61553978942019/
+2026-01-11 12:19:54,848 - INFO - 📧 Duke hapur profilin: https://www.facebook.com/groups/188602897972628/user/61553978942019/
+2026-01-11 12:20:14,239 - INFO - ✅ Mesazhi u dërgua me sukses! | 📊 Total: 9 mesazhe
+2026-01-11 12:20:15,281 - INFO - 📊 Totali: 4/20 mesazhe
+2026-01-11 12:20:15,287 - INFO - ⏳ Pritje 2.2 minuta...
+2026-01-11 12:21:10,210 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:24,551 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:24,742 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:25,003 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:25,203 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:27,869 - INFO - 🛑 Duke ndalur...
+2026-01-11 12:21:32,731 - INFO - Browser closed

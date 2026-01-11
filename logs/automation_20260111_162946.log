@@ -1,0 +1,152 @@
+2026-01-11 16:29:46,455 - INFO - 📂 Loaded 97 groups from history
+2026-01-11 16:29:46,455 - INFO - 📂 Loaded 37 visited profiles from history
+2026-01-11 16:29:46,464 - INFO - 📂 Loaded 16 commented groups from history
+2026-01-11 16:29:46,464 - INFO - 📊 Statistikat: 95 postime, 0 komente, 9 mesazhe, 22 shokë
+2026-01-11 16:30:04,113 - INFO - ✅ WebDriver initialized - Duke përdorur sesionin e ruajtur
+2026-01-11 16:30:11,012 - INFO - ✅ Already logged in - Duke filluar automatizimin!
+2026-01-11 16:30:11,012 - INFO - 
+=== Duke filluar GROUP POSTING automation ===
+2026-01-11 16:30:11,025 - INFO - Qytete: ['Berlin', 'Stuttgart', 'München', 'Hamburg', 'Köln', 'Frankfurt']
+2026-01-11 16:30:11,030 - INFO - ♾️ INFINITE MODE - Do të vazhdojë deri sa të ndalosh!
+
+2026-01-11 16:30:11,033 - INFO - 🔍 Kërko grupe të REJA për: Köln
+2026-01-11 16:30:11,067 - INFO - 🔍 Duke kërkuar grupe për: Köln
+2026-01-11 16:30:29,321 - INFO - ✅ Gjeti 43 grupe UNIQUE për Köln
+2026-01-11 16:30:29,321 - INFO - ✅ Gjeti 43 grupe për Köln
+2026-01-11 16:30:29,330 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1930197581115991
+2026-01-11 16:30:29,330 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/365823779411632
+2026-01-11 16:30:29,337 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/285881096518574
+2026-01-11 16:30:29,337 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/pracezdomovahomeoffice
+2026-01-11 16:30:40,753 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-11 16:30:40,896 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-11 16:30:40,896 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-11 16:30:40,896 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-11 16:30:43,999 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-11 16:30:44,110 - WARNING - ❌ Nuk u gjet text input
+2026-01-11 16:30:44,113 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.0s)
+2026-01-11 16:31:03,635 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/gratis.werben
+2026-01-11 16:31:15,279 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-11 16:31:15,410 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-11 16:31:15,410 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-11 16:31:15,422 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-11 16:31:18,524 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-11 16:31:18,698 - INFO - ✅ U gjet text input: //span[contains(text(), 'Write something')]
+2026-01-11 16:31:19,501 - INFO - ✅ Write something u klikua - modal po hapet
+2026-01-11 16:31:24,500 - INFO - 🔍 Duke kërkuar input BRENDA modalit...
+2026-01-11 16:31:24,595 - INFO - ✅ U gjet modal input: //div[@contenteditable='true'][@role='textbox']
+2026-01-11 16:31:25,900 - ERROR - Error clicking modal input: Message: element click intercepted: Element <div aria-label="Comment as Sophie" class="xzsf02u x1a2a7pz x1n2onr6 x14wi4xw notranslate" contenteditable="true" role="textbox" spellcheck="true" tabindex="0" aria-placeholder="Comment as Sophie" style="user-select: text; white-space: pre-wrap; word-break: break-word;" data-lexical-editor="true">...</div> is not clickable at point (701, 720). Other element would receive the click: <div class="__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7">...</div>
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b37b19e8
+	0x7ff7b37af40f
+	0x7ff7b37ac417
+	0x7ff7b37ab338
+	0x7ff7b379ce7f
+	0x7ff7b37d1fda
+	0x7ff7b379c746
+	0x7ff7b37fac97
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 16:31:25,910 - INFO - ➡️ Duke vazhduar te grupi tjetër (14.0s)
+2026-01-11 16:31:39,953 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/officepersonal
+2026-01-11 16:31:39,962 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/germany.mlm
+2026-01-11 16:31:39,978 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2045195015755595
+2026-01-11 16:31:39,994 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/241469358265719
+2026-01-11 16:31:40,010 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/286395893586360
+2026-01-11 16:31:40,017 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3074572925990262
+2026-01-11 16:31:40,019 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/nrwjobs
+2026-01-11 16:31:40,019 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1927364658043527
+2026-01-11 16:31:40,026 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/671844106240068
+2026-01-11 16:31:40,026 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/homeofficejobsdach
+2026-01-11 16:31:40,026 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/296816377785215
+2026-01-11 16:31:40,026 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/1854423604847576
+2026-01-11 16:31:51,307 - INFO - 🔍 Duke kërkuar group rules checkbox...
+2026-01-11 16:31:51,460 - INFO - ℹ️ No checkbox found - group rules më parë të pranuar ose s'ka
+2026-01-11 16:31:51,460 - INFO - ✅ Duke vazhduar me posting (no private check)...
+2026-01-11 16:31:51,460 - INFO - 📜 Duke bërë scroll për të gjetur Write something...
+2026-01-11 16:31:54,527 - INFO - 📝 Duke kërkuar YELLOW Write something box...
+2026-01-11 16:31:54,618 - WARNING - ❌ Nuk u gjet text input
+2026-01-11 16:31:54,620 - INFO - ➡️ Duke vazhduar te grupi tjetër (13.5s)
+2026-01-11 16:32:08,085 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/3204461236475060
+2026-01-11 16:32:08,088 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/jobsnrw
+2026-01-11 16:32:08,088 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/592982416025865
+2026-01-11 16:32:08,100 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/525033724335038
+2026-01-11 16:32:08,103 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/dortmund.jobs.free4all
+2026-01-11 16:32:08,107 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/3114468952144815
+2026-01-11 16:32:08,155 - ERROR - Error posting to group: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.192); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b375165d
+	0x7ff7b373d202
+	0x7ff7b37627af
+	0x7ff7b37d9a29
+	0x7ff7b37fa5c2
+	0x7ff7b379ac29
+	0x7ff7b379ba93
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3981ff4
+	0x7ff7b39821a5
+	0x7ff7b3967ed2
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 16:32:08,155 - INFO - ➡️ Duke vazhduar te grupi tjetër (14.7s)
+2026-01-11 16:32:22,847 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1147277225933091
+2026-01-11 16:32:22,851 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/313001956019820
+2026-01-11 16:32:22,855 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/2597165263893071
+2026-01-11 16:32:22,865 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/239223652095638
+2026-01-11 16:32:22,886 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/Nebenjob.Buero
+2026-01-11 16:32:22,888 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/model.promotion.messejobs
+2026-01-11 16:32:22,896 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/407366928606310
+2026-01-11 16:32:22,896 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/1197195295650801
+2026-01-11 16:32:22,902 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/457638391307937
+2026-01-11 16:32:22,905 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/199170437481151
+2026-01-11 16:32:22,906 - INFO - ⏭️ Grup i postuar më parë - skip: https://www.facebook.com/groups/joosteroberhausen
+2026-01-11 16:32:22,908 - INFO - 📝 Duke postuar në grupin: https://www.facebook.com/groups/messe.event.gastro.modeljobs
+2026-01-11 16:32:22,922 - ERROR - Error posting to group: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7b39788d5
+	0x7ff7b3978930
+	0x7ff7b3751465
+	0x7ff7b3799d83
+	0x7ff7b37d1ee2
+	0x7ff7b37cc500
+	0x7ff7b37cb6f0
+	0x7ff7b371b325
+	0x7ff7b3c90620
+	0x7ff7b3c8af60
+	0x7ff7b3ca96c6
+	0x7ff7b3995dd4
+	0x7ff7b399ed7c
+	0x7ff7b3719cb8
+	0x7ff7b3deefe8
+	0x7ff940bee8d7
+	0x7ff9429cc53c
+
+2026-01-11 16:32:22,932 - INFO - ➡️ Duke vazhduar te grupi tjetër (19.1s)
+2026-01-11 16:32:38,413 - INFO - 🛑 Duke ndalur...
+2026-01-11 16:32:40,498 - INFO - Browser closed
