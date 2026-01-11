@@ -11,8 +11,8 @@ import json
 import logging
 from datetime import datetime
 from pathlib import Path
-import tkinter as tk
-from tkinter import ttk, scrolledtext, messagebox
+# import tkinter as tk
+# from tkinter import ttk, scrolledtext, messagebox
 import threading
 import pyperclip
 

@@ -2,8 +2,8 @@
 Facebook Automation - ULTRA PROFESSIONAL GUI
 Responsive design, live statistics, modern dark theme
 """
-import tkinter as tk
-from tkinter import ttk, scrolledtext, messagebox
+# import tkinter as tk
+# from tkinter import ttk, scrolledtext, messagebox
 import threading
 import logging
 import json
